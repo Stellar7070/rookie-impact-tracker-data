@@ -1,21 +1,28 @@
 {
-  "generatedAt": "2026-10-04T12:50:47.029Z",
+  "generatedAt": "2026-10-05T12:49:11.007Z",
   "week": 4,
   "headline": "Denzel Boston leads rookie WRs at 95% snaps",
   "bullets": [
     "Biggest snap share overall: Denzel Boston (CLE WR) at 95% · 21.2% targets",
-    "RB lead: Jeremiyah Love (ARI) — 64% snaps · 10% targets · 40% touches",
-    "TE lead: Kenyon Sadiq (NYJ) — 58% snaps · 22.2% targets · 14% touches",
-    "Notable 0-snap rostered QBs: Fernando Mendoza/Ty Simpson + 6 other ACT QBs — still ACT, no offense snaps yet",
-    "Highest target share among rookies with snaps: Carnell Tate at 25.7%"
+    "RB lead: Jeremiyah Love (ARI) — 45% snaps · 2.9% targets · 31.9% touches",
+    "TE lead: Kenyon Sadiq (NYJ) — 69% snaps · 26.7% targets · 0% touches",
+    "QB lead: Athan Kaliakmanis (WAS) — 84% snaps · 0% targets",
+    "Notable 0-snap rostered QBs: Fernando Mendoza + 1 other ACT QBs — still ACT, no offense snaps yet"
   ],
   "leadByPosition": {
+    "QB": {
+      "name": "Athan Kaliakmanis",
+      "team": "WAS",
+      "snapShare": 84,
+      "targetShare": 0,
+      "oneLiner": "84% snaps · 0% targets"
+    },
     "RB": {
       "name": "Jeremiyah Love",
       "team": "ARI",
-      "snapShare": 64,
-      "targetShare": 10,
-      "oneLiner": "64% snaps · 10% targets · 40% touches"
+      "snapShare": 45,
+      "targetShare": 2.9,
+      "oneLiner": "45% snaps · 2.9% targets · 31.9% touches"
     },
     "WR": {
       "name": "Denzel Boston",
@@ -27,9 +34,9 @@
     "TE": {
       "name": "Kenyon Sadiq",
       "team": "NYJ",
-      "snapShare": 58,
-      "targetShare": 22.2,
-      "oneLiner": "58% snaps · 22.2% targets · 14% touches"
+      "snapShare": 69,
+      "targetShare": 26.7,
+      "oneLiner": "69% snaps · 26.7% targets · 0% touches"
     }
   }
 }

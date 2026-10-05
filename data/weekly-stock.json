@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T12:50:47.029Z",
+  "generatedAt": "2026-10-05T12:49:11.007Z",
   "week": 4,
   "note": "With insufficient week-over-week history, roleTrend may be steady for all players (±5 pt WoW threshold). Stock lists use snap/target leaders and zero-snap ACT as monitoring buckets — not invented rising/cooling labels.",
   "topSnaps": [
@@ -25,27 +25,36 @@
       "name": "Carnell Tate",
       "team": "TEN",
       "position": "WR",
-      "snapShare": 88,
-      "targetShare": 25.7,
-      "touchShare": 13.6,
+      "snapShare": 84,
+      "targetShare": 42.9,
+      "touchShare": 19.6,
+      "roleTrend": "steady"
+    },
+    {
+      "name": "Athan Kaliakmanis",
+      "team": "WAS",
+      "position": "QB",
+      "snapShare": 84,
+      "targetShare": 0,
+      "touchShare": 7.5,
+      "roleTrend": "steady"
+    },
+    {
+      "name": "Chris Bell",
+      "team": "MIA",
+      "position": "WR",
+      "snapShare": 82,
+      "targetShare": 17.6,
+      "touchShare": 0,
       "roleTrend": "rising"
     },
     {
-      "name": "Caleb Douglas",
-      "team": "MIA",
+      "name": "Makai Lemon",
+      "team": "PHI",
       "position": "WR",
-      "snapShare": 86,
-      "targetShare": 13,
-      "touchShare": 4.7,
-      "roleTrend": "cooling"
-    },
-    {
-      "name": "Ted Hurst III",
-      "team": "TB",
-      "position": "WR",
-      "snapShare": 75,
-      "targetShare": 8.6,
-      "touchShare": 2.6,
+      "snapShare": 74,
+      "targetShare": 24,
+      "touchShare": 7.7,
       "roleTrend": "steady"
     },
     {
@@ -58,57 +67,48 @@
       "roleTrend": "cooling"
     },
     {
-      "name": "Chris Bell",
-      "team": "MIA",
-      "position": "WR",
-      "snapShare": 71,
-      "targetShare": 20,
-      "touchShare": 7.8,
+      "name": "Kenyon Sadiq",
+      "team": "NYJ",
+      "position": "TE",
+      "snapShare": 69,
+      "targetShare": 26.7,
+      "touchShare": 0,
       "roleTrend": "rising"
     },
     {
-      "name": "Makai Lemon",
-      "team": "PHI",
+      "name": "Antonio Williams",
+      "team": "WAS",
       "position": "WR",
-      "snapShare": 70,
-      "targetShare": 16,
-      "touchShare": 8.6,
+      "snapShare": 69,
+      "targetShare": 22.2,
+      "touchShare": 7.5,
       "roleTrend": "rising"
     },
     {
       "name": "Malachi Fields",
       "team": "NYG",
       "position": "WR",
-      "snapShare": 69,
-      "targetShare": 9.5,
+      "snapShare": 66,
+      "targetShare": 10.3,
       "touchShare": 4.3,
-      "roleTrend": "cooling"
+      "roleTrend": "steady"
     },
     {
-      "name": "Jeremiyah Love",
-      "team": "ARI",
-      "position": "RB",
-      "snapShare": 64,
-      "targetShare": 10,
-      "touchShare": 40,
-      "roleTrend": "rising"
-    },
-    {
-      "name": "Kevin Coleman Jr.",
+      "name": "Will Kacmarek",
       "team": "MIA",
-      "position": "WR",
+      "position": "TE",
       "snapShare": 62,
-      "targetShare": 11.4,
-      "touchShare": 2,
+      "targetShare": 11.8,
+      "touchShare": 3.7,
       "roleTrend": "rising"
     },
     {
-      "name": "Kenyon Sadiq",
-      "team": "NYJ",
+      "name": "Eli Raridon",
+      "team": "NE",
       "position": "TE",
       "snapShare": 58,
-      "targetShare": 22.2,
-      "touchShare": 14,
+      "targetShare": 5.6,
+      "touchShare": 1.8,
       "roleTrend": "rising"
     }
   ],
@@ -117,8 +117,15 @@
       "name": "Carnell Tate",
       "team": "TEN",
       "position": "WR",
-      "snapShare": 88,
-      "targetShare": 25.7
+      "snapShare": 84,
+      "targetShare": 42.9
+    },
+    {
+      "name": "Kenyon Sadiq",
+      "team": "NYJ",
+      "position": "TE",
+      "snapShare": 69,
+      "targetShare": 26.7
     },
     {
       "name": "KC Concepcion",
@@ -128,10 +135,24 @@
       "targetShare": 24.2
     },
     {
-      "name": "Kenyon Sadiq",
-      "team": "NYJ",
-      "position": "TE",
-      "snapShare": 58,
+      "name": "Makai Lemon",
+      "team": "PHI",
+      "position": "WR",
+      "snapShare": 74,
+      "targetShare": 24
+    },
+    {
+      "name": "Kevin Coleman Jr.",
+      "team": "MIA",
+      "position": "WR",
+      "snapShare": 51,
+      "targetShare": 23.5
+    },
+    {
+      "name": "Antonio Williams",
+      "team": "WAS",
+      "position": "WR",
+      "snapShare": 69,
       "targetShare": 22.2
     },
     {
@@ -145,29 +166,8 @@
       "name": "Chris Bell",
       "team": "MIA",
       "position": "WR",
-      "snapShare": 71,
-      "targetShare": 20
-    },
-    {
-      "name": "Makai Lemon",
-      "team": "PHI",
-      "position": "WR",
-      "snapShare": 70,
-      "targetShare": 16
-    },
-    {
-      "name": "Antonio Williams",
-      "team": "WAS",
-      "position": "WR",
-      "snapShare": 41,
-      "targetShare": 13.3
-    },
-    {
-      "name": "Caleb Douglas",
-      "team": "MIA",
-      "position": "WR",
-      "snapShare": 86,
-      "targetShare": 13
+      "snapShare": 82,
+      "targetShare": 17.6
     },
     {
       "name": "Ja'Kobi Lane",
@@ -177,21 +177,21 @@
       "targetShare": 12.5
     },
     {
-      "name": "Brenen Thompson",
-      "team": "LAC",
-      "position": "WR",
-      "snapShare": 18,
-      "targetShare": 11.5
+      "name": "Will Kacmarek",
+      "team": "MIA",
+      "position": "TE",
+      "snapShare": 62,
+      "targetShare": 11.8
     }
   ],
   "rbUsage": [
     {
       "name": "Jeremiyah Love",
       "team": "ARI",
-      "snapShare": 64,
-      "touchShare": 40,
-      "rushShare": 77.8,
-      "targetShare": 10
+      "snapShare": 45,
+      "touchShare": 31.9,
+      "rushShare": 53.8,
+      "targetShare": 2.9
     },
     {
       "name": "Jonah Coleman",
@@ -200,6 +200,14 @@
       "touchShare": 26,
       "rushShare": 35.7,
       "targetShare": 10.3
+    },
+    {
+      "name": "Seth McGowan",
+      "team": "IND",
+      "snapShare": 29,
+      "touchShare": 14.3,
+      "rushShare": 20,
+      "targetShare": 6.9
     },
     {
       "name": "Jadarian Price",
@@ -213,40 +221,32 @@
       "name": "Emmett Johnson",
       "team": "KC",
       "snapShare": 27,
-      "touchShare": 13.3,
-      "rushShare": 24,
+      "touchShare": 2.4,
+      "rushShare": 0,
+      "targetShare": 3.7
+    },
+    {
+      "name": "Kaelon Black",
+      "team": "SF",
+      "snapShare": 26,
+      "touchShare": 11.1,
+      "rushShare": 17.1,
       "targetShare": 0
     },
     {
       "name": "Mike Washington Jr.",
       "team": "LV",
-      "snapShare": 16,
-      "touchShare": 10.2,
-      "rushShare": 18.5,
-      "targetShare": 0
+      "snapShare": 21,
+      "touchShare": 17.5,
+      "rushShare": 34.6,
+      "targetShare": 4.2
     },
     {
-      "name": "Kaelon Black",
-      "team": "SF",
-      "snapShare": 15,
-      "touchShare": 10.5,
-      "rushShare": 17.4,
-      "targetShare": 3.8
-    },
-    {
-      "name": "Seth McGowan",
-      "team": "IND",
-      "snapShare": 15,
-      "touchShare": 7.3,
-      "rushShare": 12.9,
-      "targetShare": 0
-    },
-    {
-      "name": "Demond Claiborne",
-      "team": "MIN",
-      "snapShare": 5,
-      "touchShare": 7.9,
-      "rushShare": 13,
+      "name": "Kaytron Allen",
+      "team": "WAS",
+      "snapShare": 19,
+      "touchShare": 7.5,
+      "rushShare": 13.6,
       "targetShare": 0
     }
   ],
@@ -258,79 +258,13 @@
       "rosterStatus": "ACT"
     },
     {
-      "name": "Ty Simpson",
-      "team": "LA",
-      "position": "QB",
-      "rosterStatus": "ACT"
-    },
-    {
-      "name": "Carson Beck",
-      "team": "ARI",
-      "position": "QB",
-      "rosterStatus": "ACT"
-    },
-    {
       "name": "Cade Klubnik",
       "team": "NYJ",
       "position": "QB",
       "rosterStatus": "ACT"
-    },
-    {
-      "name": "Elijah Sarratt",
-      "team": "BAL",
-      "position": "WR",
-      "rosterStatus": "ACT"
-    },
-    {
-      "name": "Skyler Bell",
-      "team": "BUF",
-      "position": "WR",
-      "rosterStatus": "ACT"
-    },
-    {
-      "name": "Reggie Virgil",
-      "team": "ARI",
-      "position": "WR",
-      "rosterStatus": "ACT"
-    },
-    {
-      "name": "Cole Payton",
-      "team": "PHI",
-      "position": "QB",
-      "rosterStatus": "ACT"
-    },
-    {
-      "name": "CJ Daniels",
-      "team": "LA",
-      "position": "WR",
-      "rosterStatus": "ACT"
-    },
-    {
-      "name": "Athan Kaliakmanis",
-      "team": "WAS",
-      "position": "QB",
-      "rosterStatus": "ACT"
-    },
-    {
-      "name": "Behren Morton",
-      "team": "NE",
-      "position": "QB",
-      "rosterStatus": "ACT"
-    },
-    {
-      "name": "Garrett Nussmeier",
-      "team": "KC",
-      "position": "QB",
-      "rosterStatus": "ACT"
-    },
-    {
-      "name": "Dallen Bentley",
-      "team": "DEN",
-      "position": "TE",
-      "rosterStatus": "ACT"
     }
   ],
-  "risingCount": 19,
-  "coolingCount": 16,
-  "steadyCount": 39
+  "risingCount": 20,
+  "coolingCount": 8,
+  "steadyCount": 31
 }
