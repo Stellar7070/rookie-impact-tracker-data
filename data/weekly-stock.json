@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T12:49:11.007Z",
+  "generatedAt": "2026-10-05T16:20:47.698Z",
   "week": 4,
   "note": "With insufficient week-over-week history, roleTrend may be steady for all players (±5 pt WoW threshold). Stock lists use snap/target leaders and zero-snap ACT as monitoring buckets — not invented rising/cooling labels.",
   "topSnaps": [
@@ -20,6 +20,15 @@
       "targetShare": 24.2,
       "touchShare": 9.8,
       "roleTrend": "rising"
+    },
+    {
+      "name": "Caleb Douglas",
+      "team": "MIA",
+      "position": "WR",
+      "snapShare": 86,
+      "targetShare": 13,
+      "touchShare": 4.7,
+      "roleTrend": "cooling"
     },
     {
       "name": "Carnell Tate",
@@ -101,15 +110,6 @@
       "targetShare": 11.8,
       "touchShare": 3.7,
       "roleTrend": "rising"
-    },
-    {
-      "name": "Eli Raridon",
-      "team": "NE",
-      "position": "TE",
-      "snapShare": 58,
-      "targetShare": 5.6,
-      "touchShare": 1.8,
-      "roleTrend": "rising"
     }
   ],
   "targetLeaders": [
@@ -170,18 +170,18 @@
       "targetShare": 17.6
     },
     {
+      "name": "Caleb Douglas",
+      "team": "MIA",
+      "position": "WR",
+      "snapShare": 86,
+      "targetShare": 13
+    },
+    {
       "name": "Ja'Kobi Lane",
       "team": "BAL",
       "position": "WR",
       "snapShare": 40,
       "targetShare": 12.5
-    },
-    {
-      "name": "Will Kacmarek",
-      "team": "MIA",
-      "position": "TE",
-      "snapShare": 62,
-      "targetShare": 11.8
     }
   ],
   "rbUsage": [
@@ -258,13 +258,79 @@
       "rosterStatus": "ACT"
     },
     {
+      "name": "Ty Simpson",
+      "team": "LA",
+      "position": "QB",
+      "rosterStatus": "ACT"
+    },
+    {
+      "name": "Carson Beck",
+      "team": "ARI",
+      "position": "QB",
+      "rosterStatus": "ACT"
+    },
+    {
+      "name": "Drew Allar",
+      "team": "PIT",
+      "position": "QB",
+      "rosterStatus": "ACT"
+    },
+    {
       "name": "Cade Klubnik",
       "team": "NYJ",
       "position": "QB",
       "rosterStatus": "ACT"
+    },
+    {
+      "name": "Skyler Bell",
+      "team": "BUF",
+      "position": "WR",
+      "rosterStatus": "ACT"
+    },
+    {
+      "name": "Reggie Virgil",
+      "team": "ARI",
+      "position": "WR",
+      "rosterStatus": "ACT"
+    },
+    {
+      "name": "Cole Payton",
+      "team": "PHI",
+      "position": "QB",
+      "rosterStatus": "ACT"
+    },
+    {
+      "name": "Taylen Green",
+      "team": "CLE",
+      "position": "QB",
+      "rosterStatus": "ACT"
+    },
+    {
+      "name": "CJ Daniels",
+      "team": "LA",
+      "position": "WR",
+      "rosterStatus": "ACT"
+    },
+    {
+      "name": "Behren Morton",
+      "team": "NE",
+      "position": "QB",
+      "rosterStatus": "ACT"
+    },
+    {
+      "name": "Garrett Nussmeier",
+      "team": "KC",
+      "position": "QB",
+      "rosterStatus": "ACT"
+    },
+    {
+      "name": "Dallen Bentley",
+      "team": "DEN",
+      "position": "TE",
+      "rosterStatus": "ACT"
     }
   ],
   "risingCount": 20,
-  "coolingCount": 8,
-  "steadyCount": 31
+  "coolingCount": 10,
+  "steadyCount": 46
 }
