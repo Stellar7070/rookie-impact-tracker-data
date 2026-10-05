@@ -65,4 +65,5 @@ for f in $FILES; do
 done
 rm -rf "$STAGE"
 date -u +%Y-%m-%dT%H:%M:%SZ > "$WORK/last-success"
-log "OK"
+NEWSTAMP="$(php -r '$s=json_decode(file_get_contents($argv[1]),true); echo $s["lastSyncedAt"];' "$DEST/sync-status.json")"
+log "OK installed 4 files from ${SHA:0:12} lastSyncedAt=$NEWSTAMP"
