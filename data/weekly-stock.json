@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T16:20:47.698Z",
+  "generatedAt": "2026-10-07T12:51:43.303Z",
   "week": 4,
   "note": "With insufficient week-over-week history, roleTrend may be steady for all players (±5 pt WoW threshold). Stock lists use snap/target leaders and zero-snap ACT as monitoring buckets — not invented rising/cooling labels.",
   "topSnaps": [
@@ -29,6 +29,15 @@
       "targetShare": 13,
       "touchShare": 4.7,
       "roleTrend": "cooling"
+    },
+    {
+      "name": "Bryce Lance",
+      "team": "NO",
+      "position": "WR",
+      "snapShare": 85,
+      "targetShare": 10.6,
+      "touchShare": 2,
+      "roleTrend": "rising"
     },
     {
       "name": "Carnell Tate",
@@ -65,15 +74,6 @@
       "targetShare": 24,
       "touchShare": 7.7,
       "roleTrend": "steady"
-    },
-    {
-      "name": "Bryce Lance",
-      "team": "NO",
-      "position": "WR",
-      "snapShare": 72,
-      "targetShare": 7.5,
-      "touchShare": 0,
-      "roleTrend": "cooling"
     },
     {
       "name": "Kenyon Sadiq",
@@ -330,7 +330,7 @@
       "rosterStatus": "ACT"
     }
   ],
-  "risingCount": 20,
-  "coolingCount": 10,
+  "risingCount": 22,
+  "coolingCount": 8,
   "steadyCount": 46
 }

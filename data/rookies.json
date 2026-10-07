@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T16:20:47.698Z",
+  "generatedAt": "2026-10-07T12:51:43.303Z",
   "source": "nflverse draft_picks + roster_2026 + snap_counts_2026 + stats_player_week_2026",
   "rule": "Include 2026 drafted QB/RB/WR/TE with roster status ACT or RES (game-day INA with active-list designation counts as ACT); exclude CUT and DEV. snapShare is offense snap % 0-100; 0 when no snap rows (not invented). targetShare/touchShare/rushShare from stats_player_week when present; routeShare pending (null).",
   "count": 76,
@@ -886,19 +886,19 @@
       "pfrId": "DelpOs01",
       "gsisId": "00-0041041",
       "rosterStatus": "ACT",
-      "snapShare": 19,
+      "snapShare": 32,
       "hasSnaps": true,
-      "week": 3,
+      "week": 4,
       "roleTrend": "rising",
       "college": "Georgia",
-      "targets": 1,
-      "receptions": 1,
+      "targets": 0,
+      "receptions": 0,
       "carries": 0,
-      "targetShare": 3.1,
-      "touches": 1,
-      "touchShare": 1.9,
+      "targetShare": 0,
+      "touches": 0,
+      "touchShare": 0,
       "rushShare": 0,
-      "fantasyPointsPpr": 1.8,
+      "fantasyPointsPpr": 0,
       "routeShare": null,
       "history": [
         {
@@ -914,6 +914,13 @@
           "targetShare": null,
           "touches": null,
           "touchShare": null
+        },
+        {
+          "week": 4,
+          "snapShare": 32,
+          "targetShare": 0,
+          "touches": 0,
+          "touchShare": 0
         }
       ]
     },
@@ -1045,19 +1052,19 @@
       "pfrId": "BranZa00",
       "gsisId": "00-0041044",
       "rosterStatus": "ACT",
-      "snapShare": 18,
+      "snapShare": 23,
       "hasSnaps": true,
-      "week": 3,
-      "roleTrend": "steady",
+      "week": 4,
+      "roleTrend": "rising",
       "college": "Georgia; USC",
       "targets": 2,
-      "receptions": 1,
+      "receptions": 2,
       "carries": 0,
-      "targetShare": 8.7,
-      "touches": 1,
-      "touchShare": 1.7,
+      "targetShare": 10,
+      "touches": 2,
+      "touchShare": 4,
       "rushShare": 0,
-      "fantasyPointsPpr": 1.7,
+      "fantasyPointsPpr": 3,
       "routeShare": null,
       "history": [
         {
@@ -1080,6 +1087,13 @@
           "targetShare": 8.7,
           "touches": 1,
           "touchShare": 1.7
+        },
+        {
+          "week": 4,
+          "snapShare": 23,
+          "targetShare": 10,
+          "touches": 2,
+          "touchShare": 4
         }
       ]
     },
@@ -1792,19 +1806,19 @@
       "pfrId": "LancBr00",
       "gsisId": "00-0041067",
       "rosterStatus": "ACT",
-      "snapShare": 72,
+      "snapShare": 85,
       "hasSnaps": true,
-      "week": 3,
-      "roleTrend": "cooling",
+      "week": 4,
+      "roleTrend": "rising",
       "college": "North Dakota State",
-      "targets": 3,
-      "receptions": 0,
+      "targets": 5,
+      "receptions": 1,
       "carries": 0,
-      "targetShare": 7.5,
-      "touches": 0,
-      "touchShare": 0,
+      "targetShare": 10.6,
+      "touches": 1,
+      "touchShare": 2,
       "rushShare": 0,
-      "fantasyPointsPpr": 0,
+      "fantasyPointsPpr": 1.7,
       "routeShare": null,
       "history": [
         {
@@ -1827,6 +1841,13 @@
           "targetShare": 7.5,
           "touches": 0,
           "touchShare": 0
+        },
+        {
+          "week": 4,
+          "snapShare": 85,
+          "targetShare": 10.6,
+          "touches": 1,
+          "touchShare": 2
         }
       ]
     },
@@ -2642,19 +2663,19 @@
       "pfrId": "BrowBa02",
       "gsisId": "00-0041099",
       "rosterStatus": "ACT",
-      "snapShare": 3,
+      "snapShare": 4,
       "hasSnaps": true,
-      "week": 2,
-      "roleTrend": "cooling",
+      "week": 4,
+      "roleTrend": "steady",
       "college": "LSU; Kentucky",
       "targets": 0,
       "receptions": 0,
-      "carries": 0,
+      "carries": 1,
       "targetShare": 0,
-      "touches": 0,
-      "touchShare": 0,
-      "rushShare": 0,
-      "fantasyPointsPpr": 0,
+      "touches": 1,
+      "touchShare": 2,
+      "rushShare": 5.3,
+      "fantasyPointsPpr": -0.5,
       "routeShare": null,
       "history": [
         {
@@ -2670,6 +2691,13 @@
           "targetShare": 0,
           "touches": 0,
           "touchShare": 0
+        },
+        {
+          "week": 4,
+          "snapShare": 4,
+          "targetShare": 0,
+          "touches": 1,
+          "touchShare": 2
         }
       ]
     },
