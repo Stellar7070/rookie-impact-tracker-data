@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T12:51:43.303Z",
+  "generatedAt": "2026-10-08T12:57:11.789Z",
   "source": "nflverse draft_picks + roster_2026 + snap_counts_2026 + stats_player_week_2026",
   "rule": "Include 2026 drafted QB/RB/WR/TE with roster status ACT or RES (game-day INA with active-list designation counts as ACT); exclude CUT and DEV. snapShare is offense snap % 0-100; 0 when no snap rows (not invented). targetShare/touchShare/rushShare from stats_player_week when present; routeShare pending (null).",
   "count": 76,
