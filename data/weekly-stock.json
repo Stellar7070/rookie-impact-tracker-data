@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T13:07:30.410Z",
+  "generatedAt": "2026-10-09T15:20:56.968Z",
   "week": 5,
   "note": "With insufficient week-over-week history, roleTrend may be steady for all players (±5 pt WoW threshold). Stock lists use snap/target leaders and zero-snap ACT as monitoring buckets — not invented rising/cooling labels.",
   "topSnaps": [
@@ -242,11 +242,11 @@
       "targetShare": 4.2
     },
     {
-      "name": "Kaytron Allen",
-      "team": "WAS",
-      "snapShare": 19,
-      "touchShare": 7.5,
-      "rushShare": 13.6,
+      "name": "Nicholas Singleton",
+      "team": "TEN",
+      "snapShare": 12,
+      "touchShare": 6.5,
+      "rushShare": 11.5,
       "targetShare": 0
     }
   ],
@@ -330,7 +330,7 @@
       "rosterStatus": "ACT"
     }
   ],
-  "risingCount": 23,
+  "risingCount": 22,
   "coolingCount": 7,
   "steadyCount": 46
 }

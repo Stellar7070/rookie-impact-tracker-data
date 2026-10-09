@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-09T13:07:30.410Z",
+  "generatedAt": "2026-10-09T15:20:56.968Z",
   "source": "nflverse draft_picks + roster_2026 + snap_counts_2026 + stats_player_week_2026",
   "rule": "Include 2026 drafted QB/RB/WR/TE with roster status ACT or RES (game-day INA with active-list designation counts as ACT); exclude CUT and DEV. snapShare is offense snap % 0-100; 0 when no snap rows (not invented). targetShare/touchShare/rushShare from stats_player_week when present; routeShare pending (null).",
-  "count": 76,
+  "count": 75,
   "excludedExample": "DEV=practice squad, CUT=released",
   "rookies": [
     {
@@ -2611,60 +2611,6 @@
           "targetShare": 0,
           "touches": 0,
           "touchShare": 0
-        }
-      ]
-    },
-    {
-      "name": "Kaytron Allen",
-      "position": "RB",
-      "team": "WAS",
-      "draftRound": 6,
-      "draftPick": 187,
-      "pfrId": "AlleKa01",
-      "gsisId": "00-0041096",
-      "rosterStatus": "ACT",
-      "snapShare": 19,
-      "hasSnaps": true,
-      "week": 4,
-      "roleTrend": "rising",
-      "college": "Penn State",
-      "targets": 0,
-      "receptions": 0,
-      "carries": 3,
-      "targetShare": 0,
-      "touches": 3,
-      "touchShare": 7.5,
-      "rushShare": 13.6,
-      "fantasyPointsPpr": 0.1,
-      "routeShare": null,
-      "history": [
-        {
-          "week": 1,
-          "snapShare": 10,
-          "targetShare": 0,
-          "touches": 4,
-          "touchShare": 8
-        },
-        {
-          "week": 2,
-          "snapShare": 8,
-          "targetShare": 0,
-          "touches": 5,
-          "touchShare": 9.1
-        },
-        {
-          "week": 3,
-          "snapShare": 0,
-          "targetShare": null,
-          "touches": null,
-          "touchShare": null
-        },
-        {
-          "week": 4,
-          "snapShare": 19,
-          "targetShare": 0,
-          "touches": 3,
-          "touchShare": 7.5
         }
       ]
     },
