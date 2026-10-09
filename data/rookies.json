@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T12:57:11.789Z",
+  "generatedAt": "2026-10-09T13:07:30.410Z",
   "source": "nflverse draft_picks + roster_2026 + snap_counts_2026 + stats_player_week_2026",
   "rule": "Include 2026 drafted QB/RB/WR/TE with roster status ACT or RES (game-day INA with active-list designation counts as ACT); exclude CUT and DEV. snapShare is offense snap % 0-100; 0 when no snap rows (not invented). targetShare/touchShare/rushShare from stats_player_week when present; routeShare pending (null).",
   "count": 76,
@@ -1164,10 +1164,10 @@
       "pfrId": "HursTe00",
       "gsisId": "00-0041048",
       "rosterStatus": "ACT",
-      "snapShare": 40,
+      "snapShare": 46,
       "hasSnaps": true,
-      "week": 4,
-      "roleTrend": "cooling",
+      "week": 5,
+      "roleTrend": "rising",
       "college": "Georgia State; Valdosta State",
       "targets": 3,
       "receptions": 2,
@@ -1206,6 +1206,13 @@
           "targetShare": 11.5,
           "touches": 2,
           "touchShare": 4
+        },
+        {
+          "week": 5,
+          "snapShare": 46,
+          "targetShare": null,
+          "touches": null,
+          "touchShare": null
         }
       ]
     },
@@ -2557,7 +2564,7 @@
       "rosterStatus": "ACT",
       "snapShare": 6,
       "hasSnaps": true,
-      "week": 4,
+      "week": 5,
       "roleTrend": "steady",
       "college": "LSU; Oklahoma; Southeastern Louisiana",
       "targets": 0,
@@ -2593,6 +2600,13 @@
         },
         {
           "week": 4,
+          "snapShare": 6,
+          "targetShare": 0,
+          "touches": 0,
+          "touchShare": 0
+        },
+        {
+          "week": 5,
           "snapShare": 6,
           "targetShare": 0,
           "touches": 0,
