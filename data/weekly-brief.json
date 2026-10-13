@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-09T15:20:56.968Z",
+  "generatedAt": "2026-10-13T17:49:07.741Z",
   "week": 5,
-  "headline": "Denzel Boston leads rookie WRs at 95% snaps",
+  "headline": "Germie Bernard leads rookie WRs at 92% snaps",
   "bullets": [
-    "Biggest snap share overall: Denzel Boston (CLE WR) at 95% · 21.2% targets",
-    "RB lead: Jeremiyah Love (ARI) — 45% snaps · 2.9% targets · 31.9% touches",
-    "TE lead: Kenyon Sadiq (NYJ) — 69% snaps · 26.7% targets · 0% touches",
+    "Biggest snap share overall: Germie Bernard (PIT WR) at 92% · 30% targets",
+    "RB lead: Jeremiyah Love (ARI) — 49% snaps · 2.2% targets · 25% touches",
+    "TE lead: Eli Raridon (NE) — 57% snaps · 16.1% targets · 8.8% touches",
     "QB lead: Athan Kaliakmanis (WAS) — 84% snaps · 0% targets",
-    "Notable 0-snap rostered QBs: Fernando Mendoza/Ty Simpson + 7 other ACT QBs — still ACT, no offense snaps yet"
+    "Notable 0-snap rostered QBs: Ty Simpson + 6 other ACT QBs — still ACT, no offense snaps yet"
   ],
   "leadByPosition": {
     "QB": {
@@ -20,23 +20,23 @@
     "RB": {
       "name": "Jeremiyah Love",
       "team": "ARI",
-      "snapShare": 45,
-      "targetShare": 2.9,
-      "oneLiner": "45% snaps · 2.9% targets · 31.9% touches"
+      "snapShare": 49,
+      "targetShare": 2.2,
+      "oneLiner": "49% snaps · 2.2% targets · 25% touches"
     },
     "WR": {
-      "name": "Denzel Boston",
-      "team": "CLE",
-      "snapShare": 95,
-      "targetShare": 21.2,
-      "oneLiner": "95% snaps · 21.2% targets · 7.8% touches"
+      "name": "Germie Bernard",
+      "team": "PIT",
+      "snapShare": 92,
+      "targetShare": 30,
+      "oneLiner": "92% snaps · 30% targets · 15.9% touches"
     },
     "TE": {
-      "name": "Kenyon Sadiq",
-      "team": "NYJ",
-      "snapShare": 69,
-      "targetShare": 26.7,
-      "oneLiner": "69% snaps · 26.7% targets · 0% touches"
+      "name": "Eli Raridon",
+      "team": "NE",
+      "snapShare": 57,
+      "targetShare": 16.1,
+      "oneLiner": "57% snaps · 16.1% targets · 8.8% touches"
     }
   }
 }
