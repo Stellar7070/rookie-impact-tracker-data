@@ -1,0 +1,17 @@
+Options -MultiViews
+ErrorDocument 404 /404.html
+RewriteEngine On
+RewriteBase /
+# www -> apex
+RewriteCond %{HTTP_HOST} ^www\.rookieimpacttracker\.com$ [NC]
+RewriteRule ^(.*)$ https://rookieimpacttracker.com/$1 [R=301,L]
+# Real files and directories are served as-is (data/*.json, assets/, ads.txt, sitemap, 404.html)
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+# Known SPA routes -> index.html (keep in sync with src/App.tsx + articles)
+RewriteRule ^(about|privacy|terms|affiliates|contact|editorial-policy|sources|analysis|rookies)/?$ index.html [L]
+RewriteRule ^analysis/(fantasy\-rookie\-watch\-high\-snap\-roles|how\-we\-measure\-rookie\-impact|offensive\-rookie\-rankings\-by\-snap\-share|reading\-the\-tracker\-fantasy\-manager\-guide|rookie\-rb\-touch\-snap\-landscape|rookie\-te\-snap\-roles\-vs\-targets|rookie\-wr\-usage\-board|sources\-and\-honesty\-policy\-essay|target\-share\-leaders\-among\-rookies|week\-1\-rookie\-snap\-report|week\-1\-stock|week\-2\-rookie\-role\-changes|week\-2\-stock|week\-5\-rookie\-role\-changes|week\-over\-week\-role\-trends\-explained|zero\-snap\-rostered\-rookies)/?$ index.html [L]
+RewriteRule ^(player|rookies)/[A-Za-z0-9._~%-]+/?$ index.html [L]
+# Anything else is a real 404
+RewriteRule ^ - [R=404,L]
