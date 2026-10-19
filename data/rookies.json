@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T15:25:28.028Z",
+  "generatedAt": "2026-10-19T12:51:04.122Z",
   "source": "nflverse draft_picks + roster_2026 + snap_counts_2026 + stats_player_week_2026",
   "rule": "Include 2026 drafted QB/RB/WR/TE with roster status ACT or RES (game-day INA with active-list designation counts as ACT); exclude CUT and DEV. snapShare is offense snap % 0-100; 0 when no snap rows (not invented). targetShare/touchShare/rushShare from stats_player_week when present; routeShare pending (null).",
   "count": 76,
@@ -108,19 +108,19 @@
       "pfrId": "TateCa00",
       "gsisId": "00-0041438",
       "rosterStatus": "ACT",
-      "snapShare": 76,
+      "snapShare": 74,
       "hasSnaps": true,
-      "week": 5,
-      "roleTrend": "cooling",
+      "week": 6,
+      "roleTrend": "steady",
       "college": "Ohio State",
-      "targets": 5,
-      "receptions": 1,
+      "targets": 7,
+      "receptions": 6,
       "carries": 0,
-      "targetShare": 14.3,
-      "touches": 1,
-      "touchShare": 2.4,
+      "targetShare": 31.8,
+      "touches": 6,
+      "touchShare": 17.6,
       "rushShare": 0,
-      "fantasyPointsPpr": 1.6,
+      "fantasyPointsPpr": 19,
       "routeShare": null,
       "history": [
         {
@@ -157,6 +157,13 @@
           "targetShare": 14.3,
           "touches": 1,
           "touchShare": 2.4
+        },
+        {
+          "week": 6,
+          "snapShare": 74,
+          "targetShare": 31.8,
+          "touches": 6,
+          "touchShare": 17.6
         }
       ]
     },
@@ -219,19 +226,19 @@
       "pfrId": "SadiKe00",
       "gsisId": "00-0041032",
       "rosterStatus": "ACT",
-      "snapShare": 19,
+      "snapShare": 35,
       "hasSnaps": true,
-      "week": 5,
-      "roleTrend": "cooling",
+      "week": 6,
+      "roleTrend": "rising",
       "college": "Oregon",
       "targets": 3,
-      "receptions": 2,
+      "receptions": 1,
       "carries": 0,
       "targetShare": 10.3,
-      "touches": 2,
-      "touchShare": 4.1,
+      "touches": 1,
+      "touchShare": 2.1,
       "rushShare": 0,
-      "fantasyPointsPpr": 0.3,
+      "fantasyPointsPpr": 2.2,
       "routeShare": null,
       "history": [
         {
@@ -268,6 +275,13 @@
           "targetShare": 10.3,
           "touches": 2,
           "touchShare": 4.1
+        },
+        {
+          "week": 6,
+          "snapShare": 35,
+          "targetShare": 10.3,
+          "touches": 1,
+          "touchShare": 2.1
         }
       ]
     },
@@ -282,17 +296,17 @@
       "rosterStatus": "ACT",
       "snapShare": 81,
       "hasSnaps": true,
-      "week": 5,
-      "roleTrend": "rising",
+      "week": 6,
+      "roleTrend": "steady",
       "college": "USC",
-      "targets": 7,
-      "receptions": 5,
+      "targets": 6,
+      "receptions": 3,
       "carries": 0,
-      "targetShare": 18.9,
-      "touches": 5,
-      "touchShare": 12.8,
+      "targetShare": 13.6,
+      "touches": 3,
+      "touchShare": 7.7,
       "rushShare": 0,
-      "fantasyPointsPpr": 9.3,
+      "fantasyPointsPpr": 4.9,
       "routeShare": null,
       "history": [
         {
@@ -329,6 +343,13 @@
           "targetShare": 18.9,
           "touches": 5,
           "touchShare": 12.8
+        },
+        {
+          "week": 6,
+          "snapShare": 81,
+          "targetShare": 13.6,
+          "touches": 3,
+          "touchShare": 7.7
         }
       ]
     },
@@ -341,19 +362,19 @@
       "pfrId": "ConcKC00",
       "gsisId": "00-0041547",
       "rosterStatus": "ACT",
-      "snapShare": 16,
+      "snapShare": 81,
       "hasSnaps": true,
-      "week": 5,
-      "roleTrend": "cooling",
+      "week": 6,
+      "roleTrend": "rising",
       "college": "Texas A&M; N.C. State",
-      "targets": 1,
-      "receptions": 1,
-      "carries": 0,
-      "targetShare": 3.1,
-      "touches": 1,
-      "touchShare": 2.6,
-      "rushShare": 0,
-      "fantasyPointsPpr": 1.5,
+      "targets": 6,
+      "receptions": 4,
+      "carries": 2,
+      "targetShare": 24,
+      "touches": 6,
+      "touchShare": 13.3,
+      "rushShare": 6.9,
+      "fantasyPointsPpr": 7.9,
       "routeShare": null,
       "history": [
         {
@@ -390,6 +411,13 @@
           "targetShare": 3.1,
           "touches": 1,
           "touchShare": 2.6
+        },
+        {
+          "week": 6,
+          "snapShare": 81,
+          "targetShare": 24,
+          "touches": 6,
+          "touchShare": 13.3
         }
       ]
     },
@@ -401,20 +429,20 @@
       "draftPick": 30,
       "pfrId": "CoopOm00",
       "gsisId": "00-0041511",
-      "rosterStatus": "RES",
-      "snapShare": 7,
+      "rosterStatus": "ACT",
+      "snapShare": 82,
       "hasSnaps": true,
-      "week": 1,
-      "roleTrend": "steady",
+      "week": 6,
+      "roleTrend": "rising",
       "college": "Indiana",
-      "targets": 1,
-      "receptions": 1,
+      "targets": 7,
+      "receptions": 6,
       "carries": 0,
-      "targetShare": 4.3,
-      "touches": 1,
-      "touchShare": 1.7,
+      "targetShare": 24.1,
+      "touches": 6,
+      "touchShare": 12.8,
       "rushShare": 0,
-      "fantasyPointsPpr": 4,
+      "fantasyPointsPpr": 22.3,
       "routeShare": null,
       "history": [
         {
@@ -423,6 +451,13 @@
           "targetShare": 4.3,
           "touches": 1,
           "touchShare": 1.7
+        },
+        {
+          "week": 6,
+          "snapShare": 82,
+          "targetShare": 24.1,
+          "touches": 6,
+          "touchShare": 12.8
         }
       ]
     },
@@ -515,19 +550,19 @@
       "pfrId": "BostDe00",
       "gsisId": "00-0041037",
       "rosterStatus": "ACT",
-      "snapShare": 91,
+      "snapShare": 92,
       "hasSnaps": true,
-      "week": 5,
+      "week": 6,
       "roleTrend": "steady",
       "college": "Washington",
-      "targets": 7,
-      "receptions": 3,
+      "targets": 5,
+      "receptions": 1,
       "carries": 0,
-      "targetShare": 21.9,
-      "touches": 3,
-      "touchShare": 7.7,
+      "targetShare": 20,
+      "touches": 1,
+      "touchShare": 2.2,
       "rushShare": 0,
-      "fantasyPointsPpr": 13.6,
+      "fantasyPointsPpr": 2.5,
       "routeShare": null,
       "history": [
         {
@@ -564,6 +599,13 @@
           "targetShare": 21.9,
           "touches": 3,
           "touchShare": 7.7
+        },
+        {
+          "week": 6,
+          "snapShare": 92,
+          "targetShare": 20,
+          "touches": 1,
+          "touchShare": 2.2
         }
       ]
     },
@@ -576,19 +618,19 @@
       "pfrId": "BernGe00",
       "gsisId": "00-0041489",
       "rosterStatus": "ACT",
-      "snapShare": 92,
+      "snapShare": 94,
       "hasSnaps": true,
-      "week": 5,
-      "roleTrend": "rising",
+      "week": 6,
+      "roleTrend": "steady",
       "college": "Alabama; Washington; Michigan State",
-      "targets": 9,
-      "receptions": 6,
-      "carries": 1,
-      "targetShare": 30,
-      "touches": 7,
-      "touchShare": 15.9,
-      "rushShare": 4.5,
-      "fantasyPointsPpr": 14.4,
+      "targets": 12,
+      "receptions": 11,
+      "carries": 0,
+      "targetShare": 27.3,
+      "touches": 11,
+      "touchShare": 20,
+      "rushShare": 0,
+      "fantasyPointsPpr": 25.7,
       "routeShare": null,
       "history": [
         {
@@ -625,6 +667,13 @@
           "targetShare": 30,
           "touches": 7,
           "touchShare": 15.9
+        },
+        {
+          "week": 6,
+          "snapShare": 94,
+          "targetShare": 27.3,
+          "touches": 11,
+          "touchShare": 20
         }
       ]
     },
@@ -662,19 +711,19 @@
       "pfrId": "BoerNa00",
       "gsisId": "00-0041503",
       "rosterStatus": "ACT",
-      "snapShare": 49,
+      "snapShare": 55,
       "hasSnaps": true,
-      "week": 5,
+      "week": 6,
       "roleTrend": "rising",
       "college": "Texas A&M; Nebraska",
       "targets": 2,
       "receptions": 2,
       "carries": 0,
-      "targetShare": 5.3,
+      "targetShare": 4.9,
       "touches": 2,
       "touchShare": 3.9,
       "rushShare": 0,
-      "fantasyPointsPpr": 4,
+      "fantasyPointsPpr": 8.8,
       "routeShare": null,
       "history": [
         {
@@ -709,6 +758,13 @@
           "week": 5,
           "snapShare": 49,
           "targetShare": 5.3,
+          "touches": 2,
+          "touchShare": 3.9
+        },
+        {
+          "week": 6,
+          "snapShare": 55,
+          "targetShare": 4.9,
           "touches": 2,
           "touchShare": 3.9
         }
@@ -770,9 +826,9 @@
       "pfrId": "KlarMa00",
       "gsisId": "00-0041510",
       "rosterStatus": "ACT",
-      "snapShare": 1,
+      "snapShare": 0,
       "hasSnaps": true,
-      "week": 4,
+      "week": 6,
       "roleTrend": "steady",
       "college": "Ohio State; Purdue",
       "targets": null,
@@ -802,6 +858,13 @@
         {
           "week": 4,
           "snapShare": 1,
+          "targetShare": null,
+          "touches": null,
+          "touchShare": null
+        },
+        {
+          "week": 6,
+          "snapShare": 0,
           "targetShare": null,
           "touches": null,
           "touchShare": null
@@ -842,10 +905,10 @@
       "pfrId": "RousSa00",
       "gsisId": "00-0041558",
       "rosterStatus": "ACT",
-      "snapShare": 7,
+      "snapShare": 31,
       "hasSnaps": true,
-      "week": 5,
-      "roleTrend": "cooling",
+      "week": 6,
+      "roleTrend": "rising",
       "college": "Stanford",
       "targets": 0,
       "receptions": 0,
@@ -888,6 +951,13 @@
         {
           "week": 5,
           "snapShare": 7,
+          "targetShare": 0,
+          "touches": 0,
+          "touchShare": 0
+        },
+        {
+          "week": 6,
+          "snapShare": 31,
           "targetShare": 0,
           "touches": 0,
           "touchShare": 0
@@ -964,19 +1034,19 @@
       "pfrId": "DelpOs01",
       "gsisId": "00-0041041",
       "rosterStatus": "ACT",
-      "snapShare": 38,
+      "snapShare": 43,
       "hasSnaps": true,
-      "week": 5,
+      "week": 6,
       "roleTrend": "rising",
       "college": "Georgia",
-      "targets": 0,
-      "receptions": 0,
+      "targets": 2,
+      "receptions": 2,
       "carries": 0,
-      "targetShare": 0,
-      "touches": 0,
-      "touchShare": 0,
+      "targetShare": 6.7,
+      "touches": 2,
+      "touchShare": 3.7,
       "rushShare": 0,
-      "fantasyPointsPpr": 0,
+      "fantasyPointsPpr": 3,
       "routeShare": null,
       "history": [
         {
@@ -1006,6 +1076,13 @@
           "targetShare": 0,
           "touches": 0,
           "touchShare": 0
+        },
+        {
+          "week": 6,
+          "snapShare": 43,
+          "targetShare": 6.7,
+          "touches": 2,
+          "touchShare": 3.7
         }
       ]
     },
@@ -1018,19 +1095,19 @@
       "pfrId": "FielMa00",
       "gsisId": "00-0041042",
       "rosterStatus": "ACT",
-      "snapShare": 72,
+      "snapShare": 94,
       "hasSnaps": true,
-      "week": 5,
+      "week": 6,
       "roleTrend": "rising",
       "college": "Notre Dame; Virginia",
-      "targets": 2,
+      "targets": 8,
       "receptions": 2,
       "carries": 0,
-      "targetShare": 3.8,
+      "targetShare": 18.6,
       "touches": 2,
-      "touchShare": 3.3,
+      "touchShare": 4.4,
       "rushShare": 0,
-      "fantasyPointsPpr": 4,
+      "fantasyPointsPpr": 3.9,
       "routeShare": null,
       "history": [
         {
@@ -1067,6 +1144,13 @@
           "targetShare": 3.8,
           "touches": 2,
           "touchShare": 3.3
+        },
+        {
+          "week": 6,
+          "snapShare": 94,
+          "targetShare": 18.6,
+          "touches": 2,
+          "touchShare": 4.4
         }
       ]
     },
@@ -1144,19 +1228,19 @@
       "pfrId": "BranZa00",
       "gsisId": "00-0041044",
       "rosterStatus": "ACT",
-      "snapShare": 19,
+      "snapShare": 35,
       "hasSnaps": true,
-      "week": 5,
-      "roleTrend": "steady",
+      "week": 6,
+      "roleTrend": "rising",
       "college": "Georgia; USC",
       "targets": 2,
       "receptions": 2,
       "carries": 0,
-      "targetShare": 5.9,
+      "targetShare": 6.1,
       "touches": 2,
-      "touchShare": 4.3,
+      "touchShare": 6.5,
       "rushShare": 0,
-      "fantasyPointsPpr": 3.5,
+      "fantasyPointsPpr": 4.9,
       "routeShare": null,
       "history": [
         {
@@ -1193,6 +1277,13 @@
           "targetShare": 5.9,
           "touches": 2,
           "touchShare": 4.3
+        },
+        {
+          "week": 6,
+          "snapShare": 35,
+          "targetShare": 6.1,
+          "touches": 2,
+          "touchShare": 6.5
         }
       ]
     },
@@ -1204,20 +1295,20 @@
       "draftPick": 80,
       "pfrId": "LaneJa01",
       "gsisId": "00-0040870",
-      "rosterStatus": "RES",
-      "snapShare": 40,
+      "rosterStatus": "ACT",
+      "snapShare": 54,
       "hasSnaps": true,
-      "week": 1,
-      "roleTrend": "steady",
+      "week": 6,
+      "roleTrend": "rising",
       "college": "USC",
-      "targets": 3,
-      "receptions": 1,
+      "targets": 5,
+      "receptions": 4,
       "carries": 0,
-      "targetShare": 12.5,
-      "touches": 1,
-      "touchShare": 1.9,
+      "targetShare": 16.1,
+      "touches": 4,
+      "touchShare": 9.5,
       "rushShare": 0,
-      "fantasyPointsPpr": 2.1,
+      "fantasyPointsPpr": 8,
       "routeShare": null,
       "history": [
         {
@@ -1226,6 +1317,13 @@
           "targetShare": 12.5,
           "touches": 1,
           "touchShare": 1.9
+        },
+        {
+          "week": 6,
+          "snapShare": 54,
+          "targetShare": 16.1,
+          "touches": 4,
+          "touchShare": 9.5
         }
       ]
     },
@@ -1263,19 +1361,19 @@
       "pfrId": "HursTe00",
       "gsisId": "00-0041048",
       "rosterStatus": "ACT",
-      "snapShare": 46,
+      "snapShare": 50,
       "hasSnaps": true,
-      "week": 5,
-      "roleTrend": "rising",
+      "week": 6,
+      "roleTrend": "steady",
       "college": "Georgia State; Valdosta State",
-      "targets": 3,
-      "receptions": 2,
+      "targets": 6,
+      "receptions": 3,
       "carries": 0,
-      "targetShare": 11.5,
-      "touches": 2,
-      "touchShare": 4,
+      "targetShare": 14.6,
+      "touches": 3,
+      "touchShare": 6.4,
       "rushShare": 0,
-      "fantasyPointsPpr": 4.5,
+      "fantasyPointsPpr": 7,
       "routeShare": null,
       "history": [
         {
@@ -1312,6 +1410,13 @@
           "targetShare": null,
           "touches": null,
           "touchShare": null
+        },
+        {
+          "week": 6,
+          "snapShare": 50,
+          "targetShare": 14.6,
+          "touches": 3,
+          "touchShare": 6.4
         }
       ]
     },
@@ -1385,19 +1490,19 @@
       "pfrId": "ThomZa05",
       "gsisId": "00-0041051",
       "rosterStatus": "ACT",
-      "snapShare": 22,
+      "snapShare": 13,
       "hasSnaps": true,
-      "week": 5,
-      "roleTrend": "rising",
+      "week": 6,
+      "roleTrend": "cooling",
       "college": "LSU; Mississippi State",
-      "targets": 1,
-      "receptions": 1,
-      "carries": 1,
-      "targetShare": 2.5,
-      "touches": 2,
-      "touchShare": 4.3,
-      "rushShare": 4.2,
-      "fantasyPointsPpr": 3.2,
+      "targets": 3,
+      "receptions": 3,
+      "carries": 0,
+      "targetShare": 9.1,
+      "touches": 3,
+      "touchShare": 4.8,
+      "rushShare": 0,
+      "fantasyPointsPpr": 5.5,
       "routeShare": null,
       "history": [
         {
@@ -1434,6 +1539,13 @@
           "targetShare": 2.5,
           "touches": 2,
           "touchShare": 4.3
+        },
+        {
+          "week": 6,
+          "snapShare": 13,
+          "targetShare": 9.1,
+          "touches": 3,
+          "touchShare": 4.8
         }
       ]
     },
@@ -1570,17 +1682,17 @@
       "rosterStatus": "ACT",
       "snapShare": 57,
       "hasSnaps": true,
-      "week": 5,
+      "week": 6,
       "roleTrend": "steady",
       "college": "Notre Dame",
-      "targets": 5,
-      "receptions": 5,
+      "targets": 3,
+      "receptions": 1,
       "carries": 0,
-      "targetShare": 16.1,
-      "touches": 5,
-      "touchShare": 8.8,
+      "targetShare": 10,
+      "touches": 1,
+      "touchShare": 1.9,
       "rushShare": 0,
-      "fantasyPointsPpr": 10.7,
+      "fantasyPointsPpr": 2.1,
       "routeShare": null,
       "history": [
         {
@@ -1610,6 +1722,13 @@
           "targetShare": 16.1,
           "touches": 5,
           "touchShare": 8.8
+        },
+        {
+          "week": 6,
+          "snapShare": 57,
+          "targetShare": 10,
+          "touches": 1,
+          "touchShare": 1.9
         }
       ]
     },
@@ -1762,7 +1881,7 @@
       "rosterStatus": "ACT",
       "snapShare": 0,
       "hasSnaps": true,
-      "week": 5,
+      "week": 6,
       "roleTrend": "steady",
       "college": "Iowa; Iowa Western CC",
       "targets": 0,
@@ -1809,6 +1928,13 @@
           "targetShare": 0,
           "touches": 0,
           "touchShare": 0
+        },
+        {
+          "week": 6,
+          "snapShare": 0,
+          "targetShare": 0,
+          "touches": 0,
+          "touchShare": 0
         }
       ]
     },
@@ -1821,19 +1947,19 @@
       "pfrId": "WashMi00",
       "gsisId": "00-0040878",
       "rosterStatus": "ACT",
-      "snapShare": 8,
+      "snapShare": 35,
       "hasSnaps": true,
-      "week": 5,
-      "roleTrend": "cooling",
+      "week": 6,
+      "roleTrend": "rising",
       "college": "Arkansas; New Mexico State; Buffalo",
       "targets": 1,
       "receptions": 1,
-      "carries": 1,
-      "targetShare": 2.8,
-      "touches": 2,
-      "touchShare": 4.7,
-      "rushShare": 5.6,
-      "fantasyPointsPpr": 2,
+      "carries": 9,
+      "targetShare": 2.6,
+      "touches": 10,
+      "touchShare": 23.3,
+      "rushShare": 45,
+      "fantasyPointsPpr": 6,
       "routeShare": null,
       "history": [
         {
@@ -1870,6 +1996,13 @@
           "targetShare": 2.8,
           "touches": 2,
           "touchShare": 4.7
+        },
+        {
+          "week": 6,
+          "snapShare": 35,
+          "targetShare": 2.6,
+          "touches": 10,
+          "touchShare": 23.3
         }
       ]
     },
@@ -1882,15 +2015,15 @@
       "pfrId": "BellSk00",
       "gsisId": "00-0041443",
       "rosterStatus": "ACT",
-      "snapShare": 61,
+      "snapShare": 44,
       "hasSnaps": true,
-      "week": 5,
-      "roleTrend": "steady",
+      "week": 6,
+      "roleTrend": "cooling",
       "college": "Connecticut; Wisconsin",
-      "targets": 2,
+      "targets": 1,
       "receptions": 0,
       "carries": 0,
-      "targetShare": 11.1,
+      "targetShare": 3.3,
       "touches": 0,
       "touchShare": 0,
       "rushShare": 0,
@@ -1901,6 +2034,13 @@
           "week": 5,
           "snapShare": 61,
           "targetShare": 11.1,
+          "touches": 0,
+          "touchShare": 0
+        },
+        {
+          "week": 6,
+          "snapShare": 44,
+          "targetShare": 3.3,
           "touches": 0,
           "touchShare": 0
         }
@@ -1976,19 +2116,19 @@
       "pfrId": "LancBr00",
       "gsisId": "00-0041067",
       "rosterStatus": "ACT",
-      "snapShare": 42,
+      "snapShare": 50,
       "hasSnaps": true,
-      "week": 5,
-      "roleTrend": "cooling",
+      "week": 6,
+      "roleTrend": "rising",
       "college": "North Dakota State",
-      "targets": 3,
-      "receptions": 0,
+      "targets": 4,
+      "receptions": 2,
       "carries": 0,
-      "targetShare": 12.5,
-      "touches": 0,
-      "touchShare": 0,
+      "targetShare": 13.3,
+      "touches": 2,
+      "touchShare": 3.7,
       "rushShare": 0,
-      "fantasyPointsPpr": 0,
+      "fantasyPointsPpr": 8.9,
       "routeShare": null,
       "history": [
         {
@@ -2025,6 +2165,13 @@
           "targetShare": 12.5,
           "touches": 0,
           "touchShare": 0
+        },
+        {
+          "week": 6,
+          "snapShare": 50,
+          "targetShare": 13.3,
+          "touches": 2,
+          "touchShare": 3.7
         }
       ]
     },
@@ -2084,10 +2231,10 @@
       "pfrId": "VirgRe00",
       "gsisId": "00-0041070",
       "rosterStatus": "ACT",
-      "snapShare": 18,
+      "snapShare": 4,
       "hasSnaps": true,
-      "week": 5,
-      "roleTrend": "steady",
+      "week": 6,
+      "roleTrend": "cooling",
       "college": "Texas Tech; Miami (Ohio)",
       "targets": 5,
       "receptions": 2,
@@ -2105,6 +2252,13 @@
           "targetShare": 10.9,
           "touches": 2,
           "touchShare": 4.2
+        },
+        {
+          "week": 6,
+          "snapShare": 4,
+          "targetShare": null,
+          "touches": null,
+          "touchShare": null
         }
       ]
     },
@@ -2211,19 +2365,19 @@
       "pfrId": "JohnEm01",
       "gsisId": "00-0041013",
       "rosterStatus": "ACT",
-      "snapShare": 27,
+      "snapShare": 30,
       "hasSnaps": true,
-      "week": 4,
+      "week": 6,
       "roleTrend": "steady",
       "college": "Nebraska",
-      "targets": 1,
-      "receptions": 1,
-      "carries": 0,
-      "targetShare": 3.7,
-      "touches": 1,
-      "touchShare": 2.4,
-      "rushShare": 0,
-      "fantasyPointsPpr": 2,
+      "targets": 3,
+      "receptions": 2,
+      "carries": 3,
+      "targetShare": 10.3,
+      "touches": 5,
+      "touchShare": 10,
+      "rushShare": 11.1,
+      "fantasyPointsPpr": 4.4,
       "routeShare": null,
       "history": [
         {
@@ -2253,6 +2407,13 @@
           "targetShare": 3.7,
           "touches": 1,
           "touchShare": 2.4
+        },
+        {
+          "week": 6,
+          "snapShare": 30,
+          "targetShare": 10.3,
+          "touches": 5,
+          "touchShare": 10
         }
       ]
     },
@@ -2265,10 +2426,10 @@
       "pfrId": "KoziTa00",
       "gsisId": "00-0041084",
       "rosterStatus": "ACT",
-      "snapShare": 8,
+      "snapShare": 15,
       "hasSnaps": true,
-      "week": 5,
-      "roleTrend": "cooling",
+      "week": 6,
+      "roleTrend": "rising",
       "college": "Houston; Ball State",
       "targets": null,
       "receptions": null,
@@ -2297,6 +2458,13 @@
         {
           "week": 5,
           "snapShare": 8,
+          "targetShare": null,
+          "touches": null,
+          "touchShare": null
+        },
+        {
+          "week": 6,
+          "snapShare": 15,
           "targetShare": null,
           "touches": null,
           "touchShare": null
@@ -2384,10 +2552,10 @@
       "pfrId": "NowaRi00",
       "gsisId": "00-0041398",
       "rosterStatus": "ACT",
-      "snapShare": 8,
+      "snapShare": 1,
       "hasSnaps": true,
-      "week": 5,
-      "roleTrend": "rising",
+      "week": 6,
+      "roleTrend": "cooling",
       "college": "Indiana; Wisconsin",
       "targets": 0,
       "receptions": 0,
@@ -2433,6 +2601,13 @@
           "targetShare": 0,
           "touches": 0,
           "touchShare": 0
+        },
+        {
+          "week": 6,
+          "snapShare": 1,
+          "targetShare": 0,
+          "touches": 0,
+          "touchShare": 0
         }
       ]
     },
@@ -2470,19 +2645,19 @@
       "pfrId": "CuevJo00",
       "gsisId": "00-0040887",
       "rosterStatus": "ACT",
-      "snapShare": 25,
+      "snapShare": 40,
       "hasSnaps": true,
-      "week": 5,
-      "roleTrend": "steady",
+      "week": 6,
+      "roleTrend": "rising",
       "college": "Alabama; Washington; Pomona State",
-      "targets": 2,
-      "receptions": 2,
+      "targets": 5,
+      "receptions": 4,
       "carries": 0,
-      "targetShare": 6.5,
-      "touches": 2,
-      "touchShare": 3.4,
+      "targetShare": 16.1,
+      "touches": 4,
+      "touchShare": 9.5,
       "rushShare": 0,
-      "fantasyPointsPpr": 4.6,
+      "fantasyPointsPpr": 14.4,
       "routeShare": null,
       "history": [
         {
@@ -2519,6 +2694,13 @@
           "targetShare": 6.5,
           "touches": 2,
           "touchShare": 3.4
+        },
+        {
+          "week": 6,
+          "snapShare": 40,
+          "targetShare": 16.1,
+          "touches": 4,
+          "touchShare": 9.5
         }
       ]
     },
@@ -2556,19 +2738,19 @@
       "pfrId": "AlleCy00",
       "gsisId": "00-0040890",
       "rosterStatus": "ACT",
-      "snapShare": 8,
+      "snapShare": 15,
       "hasSnaps": true,
-      "week": 4,
+      "week": 6,
       "roleTrend": "rising",
       "college": "Cincinnati; Texas A&M; Louisiana Tech",
-      "targets": 1,
-      "receptions": 0,
+      "targets": 2,
+      "receptions": 2,
       "carries": 0,
-      "targetShare": 3.7,
-      "touches": 0,
-      "touchShare": 0,
+      "targetShare": 6.9,
+      "touches": 2,
+      "touchShare": 4,
       "rushShare": 0,
-      "fantasyPointsPpr": 0,
+      "fantasyPointsPpr": 4.7,
       "routeShare": null,
       "history": [
         {
@@ -2598,6 +2780,13 @@
           "targetShare": 3.7,
           "touches": 0,
           "touchShare": 0
+        },
+        {
+          "week": 6,
+          "snapShare": 15,
+          "targetShare": 6.9,
+          "touches": 2,
+          "touchShare": 4
         }
       ]
     },
@@ -2790,19 +2979,19 @@
       "pfrId": "SharBa00",
       "gsisId": "00-0041094",
       "rosterStatus": "ACT",
-      "snapShare": 6,
+      "snapShare": 5,
       "hasSnaps": true,
-      "week": 5,
+      "week": 6,
       "roleTrend": "steady",
       "college": "LSU; Oklahoma; Southeastern Louisiana",
-      "targets": 0,
-      "receptions": 0,
+      "targets": 1,
+      "receptions": 1,
       "carries": 0,
-      "targetShare": 0,
-      "touches": 0,
-      "touchShare": 0,
+      "targetShare": 2.4,
+      "touches": 1,
+      "touchShare": 2.1,
       "rushShare": 0,
-      "fantasyPointsPpr": 0,
+      "fantasyPointsPpr": 3.1,
       "routeShare": null,
       "history": [
         {
@@ -2839,6 +3028,13 @@
           "targetShare": 0,
           "touches": 0,
           "touchShare": 0
+        },
+        {
+          "week": 6,
+          "snapShare": 5,
+          "targetShare": 2.4,
+          "touches": 1,
+          "touchShare": 2.1
         }
       ]
     },
@@ -2905,19 +3101,19 @@
       "pfrId": "BrowBa02",
       "gsisId": "00-0041099",
       "rosterStatus": "ACT",
-      "snapShare": 0,
+      "snapShare": 26,
       "hasSnaps": true,
-      "week": 5,
-      "roleTrend": "steady",
+      "week": 6,
+      "roleTrend": "rising",
       "college": "LSU; Kentucky",
-      "targets": 0,
-      "receptions": 0,
+      "targets": 1,
+      "receptions": 1,
       "carries": 0,
-      "targetShare": 0,
-      "touches": 0,
-      "touchShare": 0,
+      "targetShare": 3.3,
+      "touches": 1,
+      "touchShare": 1.9,
       "rushShare": 0,
-      "fantasyPointsPpr": 0,
+      "fantasyPointsPpr": 1.5,
       "routeShare": null,
       "history": [
         {
@@ -2947,6 +3143,13 @@
           "targetShare": 0,
           "touches": 0,
           "touchShare": 0
+        },
+        {
+          "week": 6,
+          "snapShare": 26,
+          "targetShare": 3.3,
+          "touches": 1,
+          "touchShare": 1.9
         }
       ]
     },
@@ -2959,19 +3162,19 @@
       "pfrId": "CameJo01",
       "gsisId": "00-0041100",
       "rosterStatus": "ACT",
-      "snapShare": 31,
+      "snapShare": 51,
       "hasSnaps": true,
-      "week": 5,
-      "roleTrend": "cooling",
+      "week": 6,
+      "roleTrend": "rising",
       "college": "Baylor",
-      "targets": 6,
-      "receptions": 3,
+      "targets": 0,
+      "receptions": 0,
       "carries": 0,
-      "targetShare": 15.8,
-      "touches": 3,
-      "touchShare": 5.9,
+      "targetShare": 0,
+      "touches": 0,
+      "touchShare": 0,
       "rushShare": 0,
-      "fantasyPointsPpr": 7.3,
+      "fantasyPointsPpr": 0,
       "routeShare": null,
       "history": [
         {
@@ -3008,6 +3211,13 @@
           "targetShare": 15.8,
           "touches": 3,
           "touchShare": 5.9
+        },
+        {
+          "week": 6,
+          "snapShare": 51,
+          "targetShare": 0,
+          "touches": 0,
+          "touchShare": 0
         }
       ]
     },
@@ -3020,19 +3230,19 @@
       "pfrId": "BensMa00",
       "gsisId": "00-0040894",
       "rosterStatus": "ACT",
-      "snapShare": 27,
+      "snapShare": 12,
       "hasSnaps": true,
-      "week": 5,
-      "roleTrend": "rising",
+      "week": 6,
+      "roleTrend": "cooling",
       "college": "Oregon; Florida State; Alabama; Hutchinson CC",
-      "targets": 4,
-      "receptions": 1,
+      "targets": 0,
+      "receptions": 0,
       "carries": 0,
-      "targetShare": 11.1,
-      "touches": 1,
-      "touchShare": 2.3,
+      "targetShare": 0,
+      "touches": 0,
+      "touchShare": 0,
       "rushShare": 0,
-      "fantasyPointsPpr": 1.6,
+      "fantasyPointsPpr": 0,
       "routeShare": null,
       "history": [
         {
@@ -3069,6 +3279,13 @@
           "targetShare": 11.1,
           "touches": 1,
           "touchShare": 2.3
+        },
+        {
+          "week": 6,
+          "snapShare": 12,
+          "targetShare": 0,
+          "touches": 0,
+          "touchShare": 0
         }
       ]
     },
@@ -3316,19 +3533,19 @@
       "pfrId": "McGoSe01",
       "gsisId": "00-0041125",
       "rosterStatus": "ACT",
-      "snapShare": 27,
+      "snapShare": 23,
       "hasSnaps": true,
-      "week": 5,
+      "week": 6,
       "roleTrend": "steady",
       "college": "Kentucky; New Mexico State; Butler University; Oklahoma",
-      "targets": 1,
-      "receptions": 1,
-      "carries": 5,
-      "targetShare": 2.3,
-      "touches": 6,
-      "touchShare": 12.5,
-      "rushShare": 20.8,
-      "fantasyPointsPpr": 2.9,
+      "targets": 0,
+      "receptions": 0,
+      "carries": 4,
+      "targetShare": 0,
+      "touches": 4,
+      "touchShare": 7.7,
+      "rushShare": 13.3,
+      "fantasyPointsPpr": 2.7,
       "routeShare": null,
       "history": [
         {
@@ -3365,6 +3582,13 @@
           "targetShare": 2.3,
           "touches": 6,
           "touchShare": 12.5
+        },
+        {
+          "week": 6,
+          "snapShare": 23,
+          "targetShare": 0,
+          "touches": 4,
+          "touchShare": 7.7
         }
       ]
     },
@@ -3377,9 +3601,9 @@
       "pfrId": "RyanCa00",
       "gsisId": "00-0041131",
       "rosterStatus": "ACT",
-      "snapShare": 2,
+      "snapShare": 0,
       "hasSnaps": true,
-      "week": 4,
+      "week": 6,
       "roleTrend": "steady",
       "college": "BYU; Utah; UCLA",
       "targets": 0,
@@ -3416,6 +3640,13 @@
         {
           "week": 4,
           "snapShare": 2,
+          "targetShare": null,
+          "touches": null,
+          "touchShare": null
+        },
+        {
+          "week": 6,
+          "snapShare": 0,
           "targetShare": null,
           "touches": null,
           "touchShare": null
@@ -3456,19 +3687,19 @@
       "pfrId": "BurkDe02",
       "gsisId": "00-0041132",
       "rosterStatus": "ACT",
-      "snapShare": 10,
+      "snapShare": 18,
       "hasSnaps": true,
-      "week": 5,
-      "roleTrend": "cooling",
+      "week": 6,
+      "roleTrend": "rising",
       "college": "Oklahoma; Purdue",
       "targets": 2,
-      "receptions": 0,
-      "carries": 0,
-      "targetShare": 4.7,
-      "touches": 0,
-      "touchShare": 0,
-      "rushShare": 0,
-      "fantasyPointsPpr": 0,
+      "receptions": 2,
+      "carries": 1,
+      "targetShare": 5.3,
+      "touches": 3,
+      "touchShare": 5.8,
+      "rushShare": 3.3,
+      "fantasyPointsPpr": 6.8,
       "routeShare": null,
       "history": [
         {
@@ -3505,6 +3736,13 @@
           "targetShare": 4.7,
           "touches": 0,
           "touchShare": 0
+        },
+        {
+          "week": 6,
+          "snapShare": 18,
+          "targetShare": 5.3,
+          "touches": 3,
+          "touchShare": 5.8
         }
       ]
     },
