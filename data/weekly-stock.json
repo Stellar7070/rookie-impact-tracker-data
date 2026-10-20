@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T12:51:04.122Z",
+  "generatedAt": "2026-10-20T12:49:08.587Z",
   "week": 6,
   "note": "With insufficient week-over-week history, roleTrend may be steady for all players (±5 pt WoW threshold). Stock lists use snap/target leaders and zero-snap ACT as monitoring buckets — not invented rising/cooling labels.",
   "topSnaps": [
@@ -97,9 +97,9 @@
       "name": "Antonio Williams",
       "team": "WAS",
       "position": "WR",
-      "snapShare": 68,
-      "targetShare": 13,
-      "touchShare": 6.4,
+      "snapShare": 67,
+      "targetShare": 11.4,
+      "touchShare": 6.5,
       "roleTrend": "steady"
     },
     {
@@ -226,6 +226,14 @@
       "targetShare": 6.7
     },
     {
+      "name": "Kaelon Black",
+      "team": "SF",
+      "snapShare": 23,
+      "touchShare": 18,
+      "rushShare": 27.6,
+      "targetShare": 3.4
+    },
+    {
       "name": "Seth McGowan",
       "team": "IND",
       "snapShare": 23,
@@ -239,14 +247,6 @@
       "snapShare": 19,
       "touchShare": 7.5,
       "rushShare": 13.6,
-      "targetShare": 0
-    },
-    {
-      "name": "Kaelon Black",
-      "team": "SF",
-      "snapShare": 18,
-      "touchShare": 14,
-      "rushShare": 25,
       "targetShare": 0
     }
   ],
@@ -306,7 +306,7 @@
       "rosterStatus": "ACT"
     }
   ],
-  "risingCount": 22,
-  "coolingCount": 13,
+  "risingCount": 23,
+  "coolingCount": 12,
   "steadyCount": 41
 }

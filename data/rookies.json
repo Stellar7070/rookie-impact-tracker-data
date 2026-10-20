@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T12:51:04.122Z",
+  "generatedAt": "2026-10-20T12:49:08.587Z",
   "source": "nflverse draft_picks + roster_2026 + snap_counts_2026 + stats_player_week_2026",
   "rule": "Include 2026 drafted QB/RB/WR/TE with roster status ACT or RES (game-day INA with active-list designation counts as ACT); exclude CUT and DEV. snapShare is offense snap % 0-100; 0 when no snap rows (not invented). targetShare/touchShare/rushShare from stats_player_week when present; routeShare pending (null).",
   "count": 76,
@@ -973,19 +973,19 @@
       "pfrId": "WillAn04",
       "gsisId": "00-0041040",
       "rosterStatus": "ACT",
-      "snapShare": 68,
+      "snapShare": 67,
       "hasSnaps": true,
-      "week": 5,
+      "week": 6,
       "roleTrend": "steady",
       "college": "Clemson",
-      "targets": 3,
+      "targets": 4,
       "receptions": 3,
       "carries": 0,
-      "targetShare": 13,
+      "targetShare": 11.4,
       "touches": 3,
-      "touchShare": 6.4,
+      "touchShare": 6.5,
       "rushShare": 0,
-      "fantasyPointsPpr": 6.1,
+      "fantasyPointsPpr": 8,
       "routeShare": null,
       "history": [
         {
@@ -1022,6 +1022,13 @@
           "targetShare": 13,
           "touches": 3,
           "touchShare": 6.4
+        },
+        {
+          "week": 6,
+          "snapShare": 67,
+          "targetShare": 11.4,
+          "touches": 3,
+          "touchShare": 6.5
         }
       ]
     },
@@ -1558,19 +1565,19 @@
       "pfrId": "BlacKa00",
       "gsisId": "00-0041052",
       "rosterStatus": "ACT",
-      "snapShare": 18,
+      "snapShare": 23,
       "hasSnaps": true,
-      "week": 5,
-      "roleTrend": "cooling",
+      "week": 6,
+      "roleTrend": "rising",
       "college": "Indiana; James Madison",
-      "targets": 0,
-      "receptions": 0,
-      "carries": 6,
-      "targetShare": 0,
-      "touches": 6,
-      "touchShare": 14,
-      "rushShare": 25,
-      "fantasyPointsPpr": 1.6,
+      "targets": 1,
+      "receptions": 1,
+      "carries": 8,
+      "targetShare": 3.4,
+      "touches": 9,
+      "touchShare": 18,
+      "rushShare": 27.6,
+      "fantasyPointsPpr": 4.7,
       "routeShare": null,
       "history": [
         {
@@ -1607,6 +1614,13 @@
           "targetShare": 0,
           "touches": 6,
           "touchShare": 14
+        },
+        {
+          "week": 6,
+          "snapShare": 23,
+          "targetShare": 3.4,
+          "touches": 9,
+          "touchShare": 18
         }
       ]
     },
