@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T12:51:13.314Z",
+  "generatedAt": "2026-10-23T15:00:20.939Z",
   "source": "nflverse draft_picks + roster_2026 + snap_counts_2026 + stats_player_week_2026",
   "rule": "Include 2026 drafted QB/RB/WR/TE with roster status ACT or RES (game-day INA with active-list designation counts as ACT); exclude CUT and DEV. snapShare is offense snap % 0-100; 0 when no snap rows (not invented). targetShare/touchShare/rushShare from stats_player_week when present; routeShare pending (null).",
   "count": 76,
@@ -905,10 +905,10 @@
       "pfrId": "RousSa00",
       "gsisId": "00-0041558",
       "rosterStatus": "ACT",
-      "snapShare": 31,
+      "snapShare": 20,
       "hasSnaps": true,
-      "week": 6,
-      "roleTrend": "rising",
+      "week": 7,
+      "roleTrend": "cooling",
       "college": "Stanford",
       "targets": 0,
       "receptions": 0,
@@ -961,6 +961,13 @@
           "targetShare": 0,
           "touches": 0,
           "touchShare": 0
+        },
+        {
+          "week": 7,
+          "snapShare": 20,
+          "targetShare": null,
+          "touches": null,
+          "touchShare": null
         }
       ]
     },
@@ -1497,19 +1504,19 @@
       "pfrId": "ThomZa05",
       "gsisId": "00-0041051",
       "rosterStatus": "ACT",
-      "snapShare": 13,
+      "snapShare": 7,
       "hasSnaps": true,
-      "week": 6,
+      "week": 7,
       "roleTrend": "cooling",
       "college": "LSU; Mississippi State",
-      "targets": 3,
-      "receptions": 3,
+      "targets": 0,
+      "receptions": 0,
       "carries": 0,
-      "targetShare": 9.1,
-      "touches": 3,
-      "touchShare": 4.8,
+      "targetShare": 0,
+      "touches": 0,
+      "touchShare": 0,
       "rushShare": 0,
-      "fantasyPointsPpr": 5.5,
+      "fantasyPointsPpr": 0,
       "routeShare": null,
       "history": [
         {
@@ -1553,6 +1560,13 @@
           "targetShare": 9.1,
           "touches": 3,
           "touchShare": 4.8
+        },
+        {
+          "week": 7,
+          "snapShare": 7,
+          "targetShare": 0,
+          "touches": 0,
+          "touchShare": 0
         }
       ]
     },
@@ -1694,19 +1708,19 @@
       "pfrId": "RariEl00",
       "gsisId": "00-0041395",
       "rosterStatus": "ACT",
-      "snapShare": 57,
+      "snapShare": 54,
       "hasSnaps": true,
-      "week": 6,
+      "week": 7,
       "roleTrend": "steady",
       "college": "Notre Dame",
-      "targets": 3,
-      "receptions": 1,
+      "targets": 4,
+      "receptions": 3,
       "carries": 0,
-      "targetShare": 10,
-      "touches": 1,
-      "touchShare": 1.9,
+      "targetShare": 13.3,
+      "touches": 3,
+      "touchShare": 7.3,
       "rushShare": 0,
-      "fantasyPointsPpr": 2.1,
+      "fantasyPointsPpr": 14.6,
       "routeShare": null,
       "history": [
         {
@@ -1743,6 +1757,13 @@
           "targetShare": 10,
           "touches": 1,
           "touchShare": 1.9
+        },
+        {
+          "week": 7,
+          "snapShare": 54,
+          "targetShare": 13.3,
+          "touches": 3,
+          "touchShare": 7.3
         }
       ]
     },

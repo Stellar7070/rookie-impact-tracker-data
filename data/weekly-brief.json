@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-22T12:51:13.314Z",
-  "week": 6,
+  "generatedAt": "2026-10-23T15:00:20.939Z",
+  "week": 7,
   "headline": "Germie Bernard leads rookie WRs at 94% snaps",
   "bullets": [
     "Biggest snap share overall: Germie Bernard (PIT WR) at 94% · 27.3% targets",
     "RB lead: Jeremiyah Love (ARI) — 49% snaps · 2.2% targets · 25% touches",
-    "TE lead: Eli Raridon (NE) — 57% snaps · 10% targets · 1.9% touches",
+    "TE lead: Nate Boerkircher (JAX) — 55% snaps · 4.9% targets · 3.9% touches",
     "QB lead: Athan Kaliakmanis (WAS) — 84% snaps · 0% targets",
     "Notable 0-snap rostered QBs: Ty Simpson + 6 other ACT QBs — still ACT, no offense snaps yet"
   ],
@@ -32,11 +32,11 @@
       "oneLiner": "94% snaps · 27.3% targets · 20% touches"
     },
     "TE": {
-      "name": "Eli Raridon",
-      "team": "NE",
-      "snapShare": 57,
-      "targetShare": 10,
-      "oneLiner": "57% snaps · 10% targets · 1.9% touches"
+      "name": "Nate Boerkircher",
+      "team": "JAX",
+      "snapShare": 55,
+      "targetShare": 4.9,
+      "oneLiner": "55% snaps · 4.9% targets · 3.9% touches"
     }
   }
 }
