@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T12:50:16.613Z",
+  "generatedAt": "2026-10-27T12:45:41.060Z",
   "source": "nflverse draft_picks + roster_2026 + snap_counts_2026 + stats_player_week_2026",
   "rule": "Include 2026 drafted QB/RB/WR/TE with roster status ACT or RES (game-day INA with active-list designation counts as ACT); exclude CUT and DEV. snapShare is offense snap % 0-100; 0 when no snap rows (not invented). targetShare/touchShare/rushShare from stats_player_week when present; routeShare pending (null).",
   "count": 76,
@@ -308,19 +308,19 @@
       "pfrId": "LemoMa00",
       "gsisId": "00-0040867",
       "rosterStatus": "ACT",
-      "snapShare": 81,
+      "snapShare": 91,
       "hasSnaps": true,
-      "week": 6,
-      "roleTrend": "steady",
+      "week": 7,
+      "roleTrend": "rising",
       "college": "USC",
-      "targets": 6,
-      "receptions": 3,
+      "targets": 8,
+      "receptions": 7,
       "carries": 0,
-      "targetShare": 13.6,
-      "touches": 3,
-      "touchShare": 7.7,
+      "targetShare": 24.2,
+      "touches": 7,
+      "touchShare": 14.6,
       "rushShare": 0,
-      "fantasyPointsPpr": 4.9,
+      "fantasyPointsPpr": 19.7,
       "routeShare": null,
       "history": [
         {
@@ -364,6 +364,13 @@
           "targetShare": 13.6,
           "touches": 3,
           "touchShare": 7.7
+        },
+        {
+          "week": 7,
+          "snapShare": 91,
+          "targetShare": 24.2,
+          "touches": 7,
+          "touchShare": 14.6
         }
       ]
     },
@@ -727,22 +734,30 @@
       "draftPick": 54,
       "pfrId": "StowEl00",
       "gsisId": "00-0041483",
-      "rosterStatus": "RES",
-      "snapShare": 0,
-      "hasSnaps": false,
-      "week": null,
+      "rosterStatus": "ACT",
+      "snapShare": 18,
+      "hasSnaps": true,
+      "week": 7,
       "roleTrend": "steady",
       "college": "Vanderbilt; New Mexico State; Texas A&M",
-      "targets": null,
-      "receptions": null,
-      "carries": null,
-      "targetShare": null,
-      "touches": null,
-      "touchShare": null,
-      "rushShare": null,
-      "fantasyPointsPpr": null,
+      "targets": 1,
+      "receptions": 0,
+      "carries": 0,
+      "targetShare": 3,
+      "touches": 0,
+      "touchShare": 0,
+      "rushShare": 0,
+      "fantasyPointsPpr": 0,
       "routeShare": null,
-      "history": []
+      "history": [
+        {
+          "week": 7,
+          "snapShare": 18,
+          "targetShare": 3,
+          "touches": 0,
+          "touchShare": 0
+        }
+      ]
     },
     {
       "name": "Nate Boerkircher",

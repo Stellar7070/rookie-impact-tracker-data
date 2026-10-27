@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-26T12:50:16.613Z",
+  "generatedAt": "2026-10-27T12:45:41.060Z",
   "week": 7,
-  "headline": "Germie Bernard leads rookie WRs at 91% snaps",
+  "headline": "Makai Lemon leads rookie WRs at 91% snaps",
   "bullets": [
-    "Biggest snap share overall: Germie Bernard (PIT WR) at 91% · 17.9% targets",
+    "Biggest snap share overall: Makai Lemon (PHI WR) at 91% · 24.2% targets",
     "RB lead: Jeremiyah Love (ARI) — 49% snaps · 2.2% targets · 25% touches",
     "TE lead: Nate Boerkircher (JAX) — 55% snaps · 4.9% targets · 3.9% touches",
     "QB lead: Athan Kaliakmanis (WAS) — 84% snaps · 0% targets",
@@ -25,11 +25,11 @@
       "oneLiner": "49% snaps · 2.2% targets · 25% touches"
     },
     "WR": {
-      "name": "Germie Bernard",
-      "team": "PIT",
+      "name": "Makai Lemon",
+      "team": "PHI",
       "snapShare": 91,
-      "targetShare": 17.9,
-      "oneLiner": "91% snaps · 17.9% targets · 6.1% touches"
+      "targetShare": 24.2,
+      "oneLiner": "91% snaps · 24.2% targets · 14.6% touches"
     },
     "TE": {
       "name": "Nate Boerkircher",

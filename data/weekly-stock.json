@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-10-26T12:50:16.613Z",
+  "generatedAt": "2026-10-27T12:45:41.060Z",
   "week": 7,
   "note": "With insufficient week-over-week history, roleTrend may be steady for all players (±5 pt WoW threshold). Stock lists use snap/target leaders and zero-snap ACT as monitoring buckets — not invented rising/cooling labels.",
   "topSnaps": [
+    {
+      "name": "Makai Lemon",
+      "team": "PHI",
+      "position": "WR",
+      "snapShare": 91,
+      "targetShare": 24.2,
+      "touchShare": 14.6,
+      "roleTrend": "rising"
+    },
     {
       "name": "Germie Bernard",
       "team": "PIT",
@@ -37,15 +46,6 @@
       "snapShare": 84,
       "targetShare": 0,
       "touchShare": 7.5,
-      "roleTrend": "steady"
-    },
-    {
-      "name": "Makai Lemon",
-      "team": "PHI",
-      "position": "WR",
-      "snapShare": 81,
-      "targetShare": 13.6,
-      "touchShare": 7.7,
       "roleTrend": "steady"
     },
     {
@@ -121,6 +121,13 @@
       "targetShare": 28.6
     },
     {
+      "name": "Makai Lemon",
+      "team": "PHI",
+      "position": "WR",
+      "snapShare": 91,
+      "targetShare": 24.2
+    },
+    {
       "name": "Carnell Tate",
       "team": "TEN",
       "position": "WR",
@@ -175,13 +182,6 @@
       "position": "WR",
       "snapShare": 68,
       "targetShare": 14.3
-    },
-    {
-      "name": "Makai Lemon",
-      "team": "PHI",
-      "position": "WR",
-      "snapShare": 81,
-      "targetShare": 13.6
     }
   ],
   "rbUsage": [
@@ -300,7 +300,7 @@
       "rosterStatus": "ACT"
     }
   ],
-  "risingCount": 18,
+  "risingCount": 19,
   "coolingCount": 19,
-  "steadyCount": 39
+  "steadyCount": 38
 }
