@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-27T12:45:41.060Z",
+  "generatedAt": "2026-10-27T15:01:05.061Z",
   "source": "nflverse draft_picks + roster_2026 + snap_counts_2026 + stats_player_week_2026",
   "rule": "Include 2026 drafted QB/RB/WR/TE with roster status ACT or RES (game-day INA with active-list designation counts as ACT); exclude CUT and DEV. snapShare is offense snap % 0-100; 0 when no snap rows (not invented). targetShare/touchShare/rushShare from stats_player_week when present; routeShare pending (null).",
-  "count": 76,
+  "count": 75,
   "excludedExample": "DEV=practice squad, CUT=released",
   "rookies": [
     {
@@ -3892,74 +3892,6 @@
           "targetShare": 4.8,
           "touches": 12,
           "touchShare": 26.1
-        }
-      ]
-    },
-    {
-      "name": "Carsen Ryan",
-      "position": "TE",
-      "team": "CLE",
-      "draftRound": 7,
-      "draftPick": 248,
-      "pfrId": "RyanCa00",
-      "gsisId": "00-0041131",
-      "rosterStatus": "ACT",
-      "snapShare": 0,
-      "hasSnaps": true,
-      "week": 7,
-      "roleTrend": "steady",
-      "college": "BYU; Utah; UCLA",
-      "targets": 0,
-      "receptions": 0,
-      "carries": 0,
-      "targetShare": 0,
-      "touches": 0,
-      "touchShare": 0,
-      "rushShare": 0,
-      "fantasyPointsPpr": 0,
-      "routeShare": null,
-      "history": [
-        {
-          "week": 1,
-          "snapShare": 0,
-          "targetShare": 0,
-          "touches": 0,
-          "touchShare": 0
-        },
-        {
-          "week": 2,
-          "snapShare": 2,
-          "targetShare": null,
-          "touches": null,
-          "touchShare": null
-        },
-        {
-          "week": 3,
-          "snapShare": 0,
-          "targetShare": 0,
-          "touches": 0,
-          "touchShare": 0
-        },
-        {
-          "week": 4,
-          "snapShare": 2,
-          "targetShare": null,
-          "touches": null,
-          "touchShare": null
-        },
-        {
-          "week": 6,
-          "snapShare": 0,
-          "targetShare": null,
-          "touches": null,
-          "touchShare": null
-        },
-        {
-          "week": 7,
-          "snapShare": 0,
-          "targetShare": null,
-          "touches": null,
-          "touchShare": null
         }
       ]
     },

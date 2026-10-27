@@ -1,11 +1,11 @@
 {
   "status": "live",
-  "lastSyncedAt": "2026-10-27T12:45:41.060Z",
-  "lastSuccessAt": "2026-10-27T12:45:41.060Z",
+  "lastSyncedAt": "2026-10-27T15:01:05.061Z",
+  "lastSuccessAt": "2026-10-27T15:01:05.061Z",
   "lastErrorAt": null,
   "lastError": null,
   "season": 2026,
-  "count": 76,
+  "count": 75,
   "source": "nflverse draft_picks + roster_2026 + snap_counts_2026 + stats_player_week_2026",
-  "message": "Status: live data — 76 rostered skill rookies (62 with snaps, 54 with target share)"
+  "message": "Status: live data — 75 rostered skill rookies (61 with snaps, 53 with target share)"
 }
