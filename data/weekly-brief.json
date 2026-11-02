@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-01T13:52:44.499Z",
-  "week": 7,
-  "headline": "Makai Lemon leads rookie WRs at 91% snaps",
+  "generatedAt": "2026-11-02T13:46:28.346Z",
+  "week": 8,
+  "headline": "Makai Lemon leads rookie WRs at 94% snaps",
   "bullets": [
-    "Biggest snap share overall: Makai Lemon (PHI WR) at 91% · 24.2% targets",
-    "RB lead: Jeremiyah Love (ARI) — 49% snaps · 2.2% targets · 25% touches",
-    "TE lead: Nate Boerkircher (JAX) — 55% snaps · 4.9% targets · 3.9% touches",
+    "Biggest snap share overall: Makai Lemon (PHI WR) at 94% · 28.1% targets",
+    "RB lead: Jonah Coleman (DEN) — 66% snaps · 17.2% targets · 34.9% touches",
+    "TE lead: Eli Raridon (NE) — 92% snaps · 21.1% targets · 1.9% touches",
     "QB lead: Athan Kaliakmanis (WAS) — 84% snaps · 0% targets",
     "Notable 0-snap rostered QBs: Ty Simpson + 6 other ACT QBs — still ACT, no offense snaps yet"
   ],
@@ -18,25 +18,25 @@
       "oneLiner": "84% snaps · 0% targets"
     },
     "RB": {
-      "name": "Jeremiyah Love",
-      "team": "ARI",
-      "snapShare": 49,
-      "targetShare": 2.2,
-      "oneLiner": "49% snaps · 2.2% targets · 25% touches"
+      "name": "Jonah Coleman",
+      "team": "DEN",
+      "snapShare": 66,
+      "targetShare": 17.2,
+      "oneLiner": "66% snaps · 17.2% targets · 34.9% touches"
     },
     "WR": {
       "name": "Makai Lemon",
       "team": "PHI",
-      "snapShare": 91,
-      "targetShare": 24.2,
-      "oneLiner": "91% snaps · 24.2% targets · 14.6% touches"
+      "snapShare": 94,
+      "targetShare": 28.1,
+      "oneLiner": "94% snaps · 28.1% targets · 11.5% touches"
     },
     "TE": {
-      "name": "Nate Boerkircher",
-      "team": "JAX",
-      "snapShare": 55,
-      "targetShare": 4.9,
-      "oneLiner": "55% snaps · 4.9% targets · 3.9% touches"
+      "name": "Eli Raridon",
+      "team": "NE",
+      "snapShare": 92,
+      "targetShare": 21.1,
+      "oneLiner": "92% snaps · 21.1% targets · 1.9% touches"
     }
   }
 }
