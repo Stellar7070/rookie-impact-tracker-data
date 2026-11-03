@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T13:46:28.346Z",
+  "generatedAt": "2026-11-03T13:51:32.924Z",
   "source": "nflverse draft_picks + roster_2026 + snap_counts_2026 + stats_player_week_2026",
   "rule": "Include 2026 drafted QB/RB/WR/TE with roster status ACT or RES (game-day INA with active-list designation counts as ACT); exclude CUT and DEV. snapShare is offense snap % 0-100; 0 when no snap rows (not invented). targetShare/touchShare/rushShare from stats_player_week when present; routeShare pending (null).",
   "count": 76,
@@ -539,20 +539,20 @@
       "draftPick": 32,
       "pfrId": "PricJa02",
       "gsisId": "00-0041512",
-      "rosterStatus": "RES",
-      "snapShare": 28,
+      "rosterStatus": "ACT",
+      "snapShare": 48,
       "hasSnaps": true,
-      "week": 3,
-      "roleTrend": "cooling",
+      "week": 8,
+      "roleTrend": "rising",
       "college": "Notre Dame",
-      "targets": 3,
-      "receptions": 1,
-      "carries": 5,
-      "targetShare": 6.7,
-      "touches": 6,
-      "touchShare": 12,
-      "rushShare": 27.8,
-      "fantasyPointsPpr": 1.2,
+      "targets": 4,
+      "receptions": 2,
+      "carries": 10,
+      "targetShare": 11.8,
+      "touches": 12,
+      "touchShare": 33.3,
+      "rushShare": 52.6,
+      "fantasyPointsPpr": 5.7,
       "routeShare": null,
       "history": [
         {
@@ -575,6 +575,13 @@
           "targetShare": 6.7,
           "touches": 6,
           "touchShare": 12
+        },
+        {
+          "week": 8,
+          "snapShare": 48,
+          "targetShare": 11.8,
+          "touches": 12,
+          "touchShare": 33.3
         }
       ]
     },
@@ -1032,10 +1039,10 @@
       "pfrId": "RousSa00",
       "gsisId": "00-0041558",
       "rosterStatus": "ACT",
-      "snapShare": 20,
+      "snapShare": 53,
       "hasSnaps": true,
-      "week": 7,
-      "roleTrend": "cooling",
+      "week": 8,
+      "roleTrend": "rising",
       "college": "Stanford",
       "targets": 0,
       "receptions": 0,
@@ -1092,6 +1099,13 @@
         {
           "week": 7,
           "snapShare": 20,
+          "targetShare": null,
+          "touches": null,
+          "touchShare": null
+        },
+        {
+          "week": 8,
+          "snapShare": 53,
           "targetShare": null,
           "touches": null,
           "touchShare": null
@@ -1722,19 +1736,19 @@
       "pfrId": "ThomZa05",
       "gsisId": "00-0041051",
       "rosterStatus": "ACT",
-      "snapShare": 7,
+      "snapShare": 19,
       "hasSnaps": true,
-      "week": 7,
-      "roleTrend": "cooling",
+      "week": 8,
+      "roleTrend": "rising",
       "college": "LSU; Mississippi State",
-      "targets": 0,
-      "receptions": 0,
+      "targets": 3,
+      "receptions": 1,
       "carries": 0,
-      "targetShare": 0,
-      "touches": 0,
-      "touchShare": 0,
+      "targetShare": 8.8,
+      "touches": 1,
+      "touchShare": 1.7,
       "rushShare": 0,
-      "fantasyPointsPpr": 0,
+      "fantasyPointsPpr": 1.4,
       "routeShare": null,
       "history": [
         {
@@ -1785,6 +1799,13 @@
           "targetShare": 0,
           "touches": 0,
           "touchShare": 0
+        },
+        {
+          "week": 8,
+          "snapShare": 19,
+          "targetShare": 8.8,
+          "touches": 1,
+          "touchShare": 1.7
         }
       ]
     },
