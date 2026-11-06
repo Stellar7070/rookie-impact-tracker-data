@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-05T13:49:48.665Z",
+  "generatedAt": "2026-11-06T13:56:49.585Z",
   "source": "nflverse draft_picks + roster_2026 + snap_counts_2026 + stats_player_week_2026",
   "rule": "Include 2026 drafted QB/RB/WR/TE with roster status ACT or RES (game-day INA with active-list designation counts as ACT); exclude CUT and DEV. snapShare is offense snap % 0-100; 0 when no snap rows (not invented). targetShare/touchShare/rushShare from stats_player_week when present; routeShare pending (null).",
-  "count": 75,
+  "count": 76,
   "excludedExample": "DEV=practice squad, CUT=released",
   "rookies": [
     {
@@ -831,19 +831,19 @@
       "pfrId": "BoerNa00",
       "gsisId": "00-0041503",
       "rosterStatus": "ACT",
-      "snapShare": 48,
+      "snapShare": 55,
       "hasSnaps": true,
-      "week": 8,
-      "roleTrend": "cooling",
+      "week": 9,
+      "roleTrend": "rising",
       "college": "Texas A&M; Nebraska",
-      "targets": 1,
-      "receptions": 1,
+      "targets": 3,
+      "receptions": 2,
       "carries": 0,
-      "targetShare": 5.9,
-      "touches": 1,
-      "touchShare": 2.3,
+      "targetShare": 11.5,
+      "touches": 2,
+      "touchShare": 4.3,
       "rushShare": 0,
-      "fantasyPointsPpr": 10.1,
+      "fantasyPointsPpr": 8.1,
       "routeShare": null,
       "history": [
         {
@@ -894,6 +894,13 @@
           "targetShare": 5.9,
           "touches": 1,
           "touchShare": 2.3
+        },
+        {
+          "week": 9,
+          "snapShare": 55,
+          "targetShare": 11.5,
+          "touches": 2,
+          "touchShare": 4.3
         }
       ]
     },
@@ -1500,19 +1507,19 @@
       "pfrId": "LaneJa01",
       "gsisId": "00-0040870",
       "rosterStatus": "ACT",
-      "snapShare": 65,
+      "snapShare": 57,
       "hasSnaps": true,
-      "week": 8,
-      "roleTrend": "steady",
+      "week": 9,
+      "roleTrend": "cooling",
       "college": "USC",
-      "targets": 1,
-      "receptions": 1,
+      "targets": 0,
+      "receptions": 0,
       "carries": 0,
-      "targetShare": 3.8,
-      "touches": 1,
-      "touchShare": 3.2,
+      "targetShare": 0,
+      "touches": 0,
+      "touchShare": 0,
       "rushShare": 0,
-      "fantasyPointsPpr": 2.3,
+      "fantasyPointsPpr": 0,
       "routeShare": null,
       "history": [
         {
@@ -1542,6 +1549,13 @@
           "targetShare": 3.8,
           "touches": 1,
           "touchShare": 3.2
+        },
+        {
+          "week": 9,
+          "snapShare": 57,
+          "targetShare": 0,
+          "touches": 0,
+          "touchShare": 0
         }
       ]
     },
@@ -2399,19 +2413,19 @@
       "pfrId": "HibnMa00",
       "gsisId": "00-0040879",
       "rosterStatus": "ACT",
-      "snapShare": 41,
+      "snapShare": 54,
       "hasSnaps": true,
-      "week": 8,
-      "roleTrend": "steady",
+      "week": 9,
+      "roleTrend": "rising",
       "college": "SMU; Michigan",
-      "targets": 1,
-      "receptions": 0,
+      "targets": 2,
+      "receptions": 1,
       "carries": 0,
-      "targetShare": 3.8,
-      "touches": 0,
-      "touchShare": 0,
+      "targetShare": 12.5,
+      "touches": 1,
+      "touchShare": 2.2,
       "rushShare": 0,
-      "fantasyPointsPpr": 0,
+      "fantasyPointsPpr": 1.5,
       "routeShare": null,
       "history": [
         {
@@ -2462,6 +2476,13 @@
           "targetShare": 3.8,
           "touches": 0,
           "touchShare": 0
+        },
+        {
+          "week": 9,
+          "snapShare": 54,
+          "targetShare": 12.5,
+          "touches": 1,
+          "touchShare": 2.2
         }
       ]
     },
@@ -2847,19 +2868,19 @@
       "pfrId": "KoziTa00",
       "gsisId": "00-0041084",
       "rosterStatus": "ACT",
-      "snapShare": 35,
+      "snapShare": 21,
       "hasSnaps": true,
-      "week": 8,
-      "roleTrend": "rising",
+      "week": 9,
+      "roleTrend": "cooling",
       "college": "Houston; Ball State",
-      "targets": 1,
-      "receptions": 1,
+      "targets": 2,
+      "receptions": 2,
       "carries": 0,
-      "targetShare": 5.9,
-      "touches": 1,
-      "touchShare": 2.3,
+      "targetShare": 7.7,
+      "touches": 2,
+      "touchShare": 4.3,
       "rushShare": 0,
-      "fantasyPointsPpr": 1.8,
+      "fantasyPointsPpr": 3.5,
       "routeShare": null,
       "history": [
         {
@@ -2896,6 +2917,13 @@
           "targetShare": 5.9,
           "touches": 1,
           "touchShare": 2.3
+        },
+        {
+          "week": 9,
+          "snapShare": 21,
+          "targetShare": 7.7,
+          "touches": 2,
+          "touchShare": 4.3
         }
       ]
     },
@@ -3094,19 +3122,19 @@
       "pfrId": "CuevJo00",
       "gsisId": "00-0040887",
       "rosterStatus": "ACT",
-      "snapShare": 25,
+      "snapShare": 16,
       "hasSnaps": true,
-      "week": 8,
-      "roleTrend": "steady",
+      "week": 9,
+      "roleTrend": "cooling",
       "college": "Alabama; Washington; Pomona State",
-      "targets": 2,
-      "receptions": 1,
+      "targets": 0,
+      "receptions": 0,
       "carries": 0,
-      "targetShare": 7.7,
-      "touches": 1,
-      "touchShare": 3.2,
+      "targetShare": 0,
+      "touches": 0,
+      "touchShare": 0,
       "rushShare": 0,
-      "fantasyPointsPpr": 2.5,
+      "fantasyPointsPpr": 0,
       "routeShare": null,
       "history": [
         {
@@ -3164,6 +3192,13 @@
           "targetShare": 7.7,
           "touches": 1,
           "touchShare": 3.2
+        },
+        {
+          "week": 9,
+          "snapShare": 16,
+          "targetShare": 0,
+          "touches": 0,
+          "touchShare": 0
         }
       ]
     },
@@ -3702,19 +3737,19 @@
       "pfrId": "CameJo01",
       "gsisId": "00-0041100",
       "rosterStatus": "ACT",
-      "snapShare": 52,
+      "snapShare": 45,
       "hasSnaps": true,
-      "week": 8,
-      "roleTrend": "steady",
+      "week": 9,
+      "roleTrend": "cooling",
       "college": "Baylor",
       "targets": 1,
-      "receptions": 0,
+      "receptions": 1,
       "carries": 0,
-      "targetShare": 5.9,
-      "touches": 0,
-      "touchShare": 0,
+      "targetShare": 3.8,
+      "touches": 1,
+      "touchShare": 2.2,
       "rushShare": 0,
-      "fantasyPointsPpr": 0,
+      "fantasyPointsPpr": 1.6,
       "routeShare": null,
       "history": [
         {
@@ -3765,6 +3800,13 @@
           "targetShare": 5.9,
           "touches": 0,
           "touchShare": 0
+        },
+        {
+          "week": 9,
+          "snapShare": 45,
+          "targetShare": 3.8,
+          "touches": 1,
+          "touchShare": 2.2
         }
       ]
     },
@@ -4186,6 +4228,81 @@
           "targetShare": 0,
           "touches": 5,
           "touchShare": 10.6
+        }
+      ]
+    },
+    {
+      "name": "Carsen Ryan",
+      "position": "TE",
+      "team": "CLE",
+      "draftRound": 7,
+      "draftPick": 248,
+      "pfrId": "RyanCa00",
+      "gsisId": "00-0041131",
+      "rosterStatus": "ACT",
+      "snapShare": 0,
+      "hasSnaps": true,
+      "week": 8,
+      "roleTrend": "steady",
+      "college": "BYU; Utah; UCLA",
+      "targets": 0,
+      "receptions": 0,
+      "carries": 0,
+      "targetShare": 0,
+      "touches": 0,
+      "touchShare": 0,
+      "rushShare": 0,
+      "fantasyPointsPpr": 0,
+      "routeShare": null,
+      "history": [
+        {
+          "week": 1,
+          "snapShare": 0,
+          "targetShare": 0,
+          "touches": 0,
+          "touchShare": 0
+        },
+        {
+          "week": 2,
+          "snapShare": 2,
+          "targetShare": null,
+          "touches": null,
+          "touchShare": null
+        },
+        {
+          "week": 3,
+          "snapShare": 0,
+          "targetShare": 0,
+          "touches": 0,
+          "touchShare": 0
+        },
+        {
+          "week": 4,
+          "snapShare": 2,
+          "targetShare": null,
+          "touches": null,
+          "touchShare": null
+        },
+        {
+          "week": 6,
+          "snapShare": 0,
+          "targetShare": null,
+          "touches": null,
+          "touchShare": null
+        },
+        {
+          "week": 7,
+          "snapShare": 0,
+          "targetShare": null,
+          "touches": null,
+          "touchShare": null
+        },
+        {
+          "week": 8,
+          "snapShare": 0,
+          "targetShare": null,
+          "touches": null,
+          "touchShare": null
         }
       ]
     },
