@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T13:54:31.871Z",
+  "generatedAt": "2026-11-10T13:53:20.473Z",
   "week": 9,
   "note": "With insufficient week-over-week history, roleTrend may be steady for all players (±5 pt WoW threshold). Stock lists use snap/target leaders and zero-snap ACT as monitoring buckets — not invented rising/cooling labels.",
   "topSnaps": [
@@ -301,6 +301,6 @@
     }
   ],
   "risingCount": 16,
-  "coolingCount": 28,
-  "steadyCount": 32
+  "coolingCount": 27,
+  "steadyCount": 33
 }

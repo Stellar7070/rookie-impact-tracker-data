@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T13:54:31.871Z",
+  "generatedAt": "2026-11-10T13:53:20.473Z",
   "source": "nflverse draft_picks + roster_2026 + snap_counts_2026 + stats_player_week_2026",
   "rule": "Include 2026 drafted QB/RB/WR/TE with roster status ACT or RES (game-day INA with active-list designation counts as ACT); exclude CUT and DEV. snapShare is offense snap % 0-100; 0 when no snap rows (not invented). targetShare/touchShare/rushShare from stats_player_week when present; routeShare pending (null).",
   "count": 76,
@@ -2901,10 +2901,10 @@
       "pfrId": "BredMa00",
       "gsisId": "00-0041081",
       "rosterStatus": "ACT",
-      "snapShare": 13,
+      "snapShare": 15,
       "hasSnaps": true,
-      "week": 8,
-      "roleTrend": "cooling",
+      "week": 9,
+      "roleTrend": "steady",
       "college": "Michigan",
       "targets": 1,
       "receptions": 0,
@@ -2961,6 +2961,13 @@
         {
           "week": 8,
           "snapShare": 13,
+          "targetShare": null,
+          "touches": null,
+          "touchShare": null
+        },
+        {
+          "week": 9,
+          "snapShare": 15,
           "targetShare": null,
           "touches": null,
           "touchShare": null
@@ -4172,7 +4179,7 @@
       "draftPick": 198,
       "pfrId": "ClaiDe00",
       "gsisId": "00-0041104",
-      "rosterStatus": "ACT",
+      "rosterStatus": "RES",
       "snapShare": 6,
       "hasSnaps": true,
       "week": 5,
