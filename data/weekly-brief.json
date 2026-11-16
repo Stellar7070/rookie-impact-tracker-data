@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-11-11T13:54:32.741Z",
-  "week": 9,
-  "headline": "Makai Lemon leads rookie WRs at 93% snaps",
+  "generatedAt": "2026-11-16T13:48:36.814Z",
+  "week": 10,
+  "headline": "Germie Bernard leads rookie WRs at 95% snaps",
   "bullets": [
-    "Biggest snap share overall: Makai Lemon (PHI WR) at 93% · 27.3% targets",
-    "RB lead: Jonah Coleman (DEN) — 77% snaps · 11.8% targets · 40.4% touches",
-    "TE lead: Kenyon Sadiq (NYJ) — 57% snaps · 13.3% targets · 9.3% touches",
-    "QB lead: Athan Kaliakmanis (WAS) — 84% snaps · 0% targets",
-    "Notable 0-snap rostered QBs: Ty Simpson + 6 other ACT QBs — still ACT, no offense snaps yet"
+    "Biggest snap share overall: Fernando Mendoza (LV QB) at 100% · 0% targets",
+    "RB lead: Emmett Johnson (KC) — 88% snaps · 21.2% targets · 57.1% touches",
+    "TE lead: Eli Raridon (NE) — 63% snaps · 3.8% targets · 2.7% touches",
+    "QB lead: Fernando Mendoza (LV) — 100% snaps · 0% targets",
+    "Notable 0-snap rostered QBs: Ty Simpson + 4 other ACT QBs — still ACT, no offense snaps yet"
   ],
   "leadByPosition": {
     "QB": {
-      "name": "Athan Kaliakmanis",
-      "team": "WAS",
-      "snapShare": 84,
+      "name": "Fernando Mendoza",
+      "team": "LV",
+      "snapShare": 100,
       "targetShare": 0,
-      "oneLiner": "84% snaps · 0% targets"
+      "oneLiner": "100% snaps · 0% targets"
     },
     "RB": {
-      "name": "Jonah Coleman",
-      "team": "DEN",
-      "snapShare": 77,
-      "targetShare": 11.8,
-      "oneLiner": "77% snaps · 11.8% targets · 40.4% touches"
+      "name": "Emmett Johnson",
+      "team": "KC",
+      "snapShare": 88,
+      "targetShare": 21.2,
+      "oneLiner": "88% snaps · 21.2% targets · 57.1% touches"
     },
     "WR": {
-      "name": "Makai Lemon",
-      "team": "PHI",
-      "snapShare": 93,
-      "targetShare": 27.3,
-      "oneLiner": "93% snaps · 27.3% targets · 14% touches"
+      "name": "Germie Bernard",
+      "team": "PIT",
+      "snapShare": 95,
+      "targetShare": 10.3,
+      "oneLiner": "95% snaps · 10.3% targets · 2.6% touches"
     },
     "TE": {
-      "name": "Kenyon Sadiq",
-      "team": "NYJ",
-      "snapShare": 57,
-      "targetShare": 13.3,
-      "oneLiner": "57% snaps · 13.3% targets · 9.3% touches"
+      "name": "Eli Raridon",
+      "team": "NE",
+      "snapShare": 63,
+      "targetShare": 3.8,
+      "oneLiner": "63% snaps · 3.8% targets · 2.7% touches"
     }
   }
 }
