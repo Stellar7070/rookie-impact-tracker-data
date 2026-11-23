@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-23T05:54:55.438Z",
+  "generatedAt": "2026-11-23T13:51:46.768Z",
   "week": 11,
-  "headline": "Germie Bernard leads rookie WRs at 95% snaps",
+  "headline": "Germie Bernard leads rookie WRs at 94% snaps",
   "bullets": [
     "Biggest snap share overall: Fernando Mendoza (LV QB) at 100% · 0% targets",
-    "RB lead: Emmett Johnson (KC) — 88% snaps · 21.2% targets · 57.1% touches",
+    "RB lead: Jonah Coleman (DEN) — 85% snaps · 15.6% targets · 52.8% touches",
     "TE lead: Eli Raridon (NE) — 63% snaps · 3.8% targets · 2.7% touches",
     "QB lead: Fernando Mendoza (LV) — 100% snaps · 0% targets",
     "Notable 0-snap rostered QBs: Ty Simpson + 4 other ACT QBs — still ACT, no offense snaps yet"
@@ -18,18 +18,18 @@
       "oneLiner": "100% snaps · 0% targets"
     },
     "RB": {
-      "name": "Emmett Johnson",
-      "team": "KC",
-      "snapShare": 88,
-      "targetShare": 21.2,
-      "oneLiner": "88% snaps · 21.2% targets · 57.1% touches"
+      "name": "Jonah Coleman",
+      "team": "DEN",
+      "snapShare": 85,
+      "targetShare": 15.6,
+      "oneLiner": "85% snaps · 15.6% targets · 52.8% touches"
     },
     "WR": {
       "name": "Germie Bernard",
       "team": "PIT",
-      "snapShare": 95,
-      "targetShare": 10.3,
-      "oneLiner": "95% snaps · 10.3% targets · 2.6% touches"
+      "snapShare": 94,
+      "targetShare": 23.3,
+      "oneLiner": "94% snaps · 23.3% targets · 12% touches"
     },
     "TE": {
       "name": "Eli Raridon",
