@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-16T13:48:36.814Z",
-  "week": 10,
+  "generatedAt": "2026-11-23T05:54:55.438Z",
+  "week": 11,
   "note": "With insufficient week-over-week history, roleTrend may be steady for all players (±5 pt WoW threshold). Stock lists use snap/target leaders and zero-snap ACT as monitoring buckets — not invented rising/cooling labels.",
   "topSnaps": [
     {
@@ -142,6 +142,13 @@
       "targetShare": 25
     },
     {
+      "name": "Ja'Kobi Lane",
+      "team": "BAL",
+      "position": "WR",
+      "snapShare": 64,
+      "targetShare": 23.4
+    },
+    {
       "name": "Carnell Tate",
       "team": "TEN",
       "position": "WR",
@@ -170,18 +177,11 @@
       "targetShare": 18.8
     },
     {
-      "name": "Reggie Virgil",
-      "team": "ARI",
-      "position": "WR",
-      "snapShare": 46,
-      "targetShare": 13.8
-    },
-    {
-      "name": "Matthew Hibner",
-      "team": "BAL",
+      "name": "Marlin Klein",
+      "team": "HOU",
       "position": "TE",
-      "snapShare": 54,
-      "targetShare": 12.5
+      "snapShare": 24,
+      "targetShare": 15.4
     }
   ],
   "rbUsage": [
@@ -218,14 +218,6 @@
       "targetShare": 3.7
     },
     {
-      "name": "Seth McGowan",
-      "team": "IND",
-      "snapShare": 29,
-      "touchShare": 26.7,
-      "rushShare": 35.3,
-      "targetShare": 0
-    },
-    {
       "name": "Jadarian Price",
       "team": "SEA",
       "snapShare": 28,
@@ -240,6 +232,14 @@
       "touchShare": 16.7,
       "rushShare": 33.3,
       "targetShare": 0
+    },
+    {
+      "name": "Seth McGowan",
+      "team": "IND",
+      "snapShare": 18,
+      "touchShare": 13.8,
+      "rushShare": 17.6,
+      "targetShare": 3.8
     },
     {
       "name": "Demond Claiborne",
@@ -261,6 +261,12 @@
       "name": "Drew Allar",
       "team": "PIT",
       "position": "QB",
+      "rosterStatus": "ACT"
+    },
+    {
+      "name": "Adam Randall",
+      "team": "BAL",
+      "position": "RB",
       "rosterStatus": "ACT"
     },
     {
@@ -288,7 +294,7 @@
       "rosterStatus": "ACT"
     }
   ],
-  "risingCount": 19,
-  "coolingCount": 31,
+  "risingCount": 20,
+  "coolingCount": 30,
   "steadyCount": 26
 }
