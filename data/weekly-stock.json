@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T13:51:46.768Z",
+  "generatedAt": "2026-11-24T13:46:05.588Z",
   "week": 11,
   "note": "With insufficient week-over-week history, roleTrend may be steady for all players (±5 pt WoW threshold). Stock lists use snap/target leaders and zero-snap ACT as monitoring buckets — not invented rising/cooling labels.",
   "topSnaps": [
@@ -49,15 +49,6 @@
       "roleTrend": "steady"
     },
     {
-      "name": "Antonio Williams",
-      "team": "WAS",
-      "position": "WR",
-      "snapShare": 86,
-      "targetShare": 6.1,
-      "touchShare": 3.6,
-      "roleTrend": "steady"
-    },
-    {
       "name": "Denzel Boston",
       "team": "CLE",
       "position": "WR",
@@ -74,6 +65,15 @@
       "targetShare": 15.6,
       "touchShare": 52.8,
       "roleTrend": "rising"
+    },
+    {
+      "name": "Antonio Williams",
+      "team": "WAS",
+      "position": "WR",
+      "snapShare": 84,
+      "targetShare": 34.4,
+      "touchShare": 18.4,
+      "roleTrend": "steady"
     },
     {
       "name": "Athan Kaliakmanis",
@@ -119,6 +119,13 @@
       "position": "WR",
       "snapShare": 1,
       "targetShare": 36.7
+    },
+    {
+      "name": "Antonio Williams",
+      "team": "WAS",
+      "position": "WR",
+      "snapShare": 84,
+      "targetShare": 34.4
     },
     {
       "name": "Caleb Douglas",
@@ -175,13 +182,6 @@
       "position": "TE",
       "snapShare": 24,
       "targetShare": 15.4
-    },
-    {
-      "name": "Josh Cameron",
-      "team": "JAX",
-      "position": "WR",
-      "snapShare": 39,
-      "targetShare": 15.2
     }
   ],
   "rbUsage": [
@@ -296,5 +296,5 @@
   ],
   "risingCount": 18,
   "coolingCount": 27,
-  "steadyCount": 31
+  "steadyCount": 30
 }
